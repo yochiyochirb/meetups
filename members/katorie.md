@@ -12,14 +12,14 @@ VBAも少し挑戦したりしています。　　
 
 
 ## Ruby On Railsと私
---「Ruby on RailsによるWebアプリケーション・スーパーサンプル改訂版」の写経
---Rails Girls Tokyo 2nd に参加
---Rails Girls Tokyo, more!でRSSリーダーを作成　←イマココ
+「Ruby on RailsによるWebアプリケーション・スーパーサンプル改訂版」の写経  
+Rails Girls Tokyo 2nd に参加  
+Rails Girls Tokyo, more!でRSSリーダーを作成　←イマココ  
 
-more!でRSSリーダーを作るときに、scaffoldをしないで作成したので
-ちょっと仕組みがわかるきっかけになってよかった。
-写経していても、どんどん知らないファイルが増えていって、
-一体何が起こっているのかわからないので、ちょっと謎に思う。
+more!でRSSリーダーを作るときに、scaffoldをしないで作成したので  
+ちょっと仕組みがわかるきっかけになってよかった。  
+写経していても、どんどん知らないファイルが増えていって、  
+一体何が起こっているのかわからないので、ちょっと謎に思う。  
 
 
 ## GitHubと私
