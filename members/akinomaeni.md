@@ -12,3 +12,6 @@
 その後Gitに移行<br>
 Githubは半年前ぐらいから非公開Repositoryで3人ぐらいで開発に使う<br>
 あまりIssuesやPull Requestは使ったことがないです
+
+## Ruby on Rails とわたし
+今、Rails Tutorial やっています
