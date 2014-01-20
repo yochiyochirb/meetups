@@ -25,3 +25,12 @@
 
 ## Ruby On Railsとわたし
 * まったく触ったことがなく、何からはじめたらいいかわかりません。。
+
+## 2014年の目標
+* Railsの勉強をコツコツ続ける
+* 一駅歩く
+* 何かしらブログをはじめる
+
+## リンク
+* Facebook：[https://www.facebook.com/chika.minamide](https://www.facebook.com/chika.minamide)
+* Twitter：[@yum8686](https://twitter.com/yum8686)
