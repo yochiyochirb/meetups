@@ -1,7 +1,7 @@
 ## 自己紹介
 北村良明　（きたむー）  
 エンジニア歴ちょうど２年です。  
-ウェブサービス開発・運用やりながら最近はスマホアプリ開発にも手を染めてたりします。  
+ウェブサービス開発・運用やりながら最近はスマホアプリ開発（Objective-C）にも手を染めてたりします。  
 あとTOEICの勉強が自分の中で最近流行ってます。  
 
 ## Ruby on Rails とわたし
@@ -16,6 +16,9 @@ http://www.amazon.co.jp/%E5%9F%BA%E7%A4%8ERuby-Rails-IMPRESS-KISO-SERIES/dp/4844
 ## 住んでいるところ
 日暮里  
 ちなみに長野県出身です  
+
+## 2014年の目標
+サーバーサイドをRailsで実装するiPhoneアプリを一個でもいいから作ってAppStoreで公開する。  
 
 ## その他
 twitter -> https://twitter.com/altarf8  
