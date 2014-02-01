@@ -31,6 +31,13 @@
 * 一駅歩く
 * 何かしらブログをはじめる
 
+## 住んでいる場所と好きなところ
+池袋近辺に住んでいます。  
+あまり近所に出歩かないので（ひきこもり）、まだよくわかってないのですが・・汗  
+好きなところは、以下のとおり。
+* 3路線の駅が近くて交通の便がいい！
+* 昔ながらの渋い雰囲気で、おいしいホルモン屋さんがある！
+
 ## リンク
 * Facebook：[https://www.facebook.com/chika.minamide](https://www.facebook.com/chika.minamide)
 * Twitter：[@yum8686](https://twitter.com/yum8686)
