@@ -25,4 +25,5 @@ http://tsite.jp/daikanyama/store-service/tsutaya.html
 ### 今年の目標
 自分でgem作って公開する。
 
-### 
+*進捗
+作るものは決めた
