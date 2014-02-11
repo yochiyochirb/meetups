@@ -51,3 +51,11 @@
     * アジャイル開発
     * scala, golang
 
+## 進捗
+### 2014/2/11現在
+* JS
+  * jQueryによるDOM操作とかイベントとかAjaxとかやった
+  * CoffeeScript書いてる
+* HTML力
+  * haml, scss書いてる
+  * 細かい仕様とかが苦手
