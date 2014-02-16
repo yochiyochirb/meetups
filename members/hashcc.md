@@ -5,13 +5,13 @@
 - 目標：企画〜UI設計〜スタイリング〜エンジニアリングまで全部こなせるようになる。
 
 # Ruby on Railsとわたし
-- [ステータス](https://github.com/yochiyochirb/meetups/blob/master/member_status.md)：*4 つぼみ*
+- [ステータス](https://github.com/yochiyochirb/meetups/blob/master/member_status.md)：**3ほんば(本葉)**
 - PHP5を使っていくつかウェブサービス的なものを作ったことはあります（今はもう公開してないのが多いですが）
 - Ruby / Railsは今から勉強ってレベルです。Rubyを勉強する動機は他の言語体系も知りたいなってのとRails使いたいってところですね。
 - [ドットインストール](http://dotinstall.com/lessons/basic_rails_v2)で勉強中ですが、他にもおすすめ本があれば教えていただきたいです。
 
 # Githubとわたし
-- [ステータス](https://github.com/yochiyochirb/meetups/blob/master/member_status.md)：*2 ふたば*
+- [ステータス](https://github.com/yochiyochirb/meetups/blob/master/member_status.md)：**2 ふたば**
 - 2013年にアカウントを作って、趣味で作ったコードを何個か上げてます。★もらえると嬉しいですね。
 
 # 目標 (2014年)
