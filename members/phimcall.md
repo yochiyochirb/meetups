@@ -6,10 +6,14 @@
 
 ## Rails とわたしについて
 
+### ステータス：たね
+
 - さいきん毎日さわって居ます
 - ！！！Heroku + Rails 最高！！！
 
 ## Github とわたしについて
+
+### ステータス：たね
 
 - private repository のために Bitbucket で活動してます
 - GitHub は graph 機能が好きなので, お金払って private repository 使ってます
