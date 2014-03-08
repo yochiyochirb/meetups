@@ -49,11 +49,11 @@ Git, Github   | 4 (蕾)
 
 ## 使っているエディタ
 * メインは Sublime Text
-  * GitGutter
-  * Markdown Preview
-  * TrailingSpaces
-  * Theme - Flatland
-* ターミナルから直接操作したいときはvim
+  * GitGutter ... 最後のコミットからの変更がわかる！
+  * Markdown Preview ... Github Flavored Markdown もプレビューできる！
+  * TrailingSpaces ... スペースを強調表示してくれる！
+  * Theme - Flatland ... フラットでかっこいいテーマ！
+* ターミナルから直接操作したいときは vim
   * プラグイン何も入ってないけど、割と満足している
 
 ## 2014年の目標
