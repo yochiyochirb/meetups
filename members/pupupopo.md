@@ -26,6 +26,10 @@
  * 寿司
  * 蟹
 
+## 使用エディタ
+ * SublimeText(Mac)
+ * EmEditor(Windows)
+
 ## 住んでるところ
  * 東京都大田区
   * 空港が近い
