@@ -26,7 +26,7 @@ Git, Github   | 4 (蕾)
 
 ## 最近ハマっていること（2014/03/15現在）
 * vimプラグインやっと入れた
-  * neobundle, neosnipet, unite, unite-outline, vim-fugitive
+  * neobundle, neosnipet, unite, unite-outline, vim-fugitive, wildfire
   * まだ使いこなせてない
 * Hubot + Idobata で人工無能とか便利機能とか
   * 2014/03/15 地元の長岡でLT
