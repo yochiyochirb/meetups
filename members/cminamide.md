@@ -61,6 +61,14 @@ Windowsではこれ。
 * 3路線の駅が近くて交通の便がいい！
 * 昔ながらの渋い雰囲気で、おいしいホルモン屋さんがある！
 
+## 最近ハマっていること
+* プリン  
+　なぜだか最近、色んなプリンを食べたくて仕方ないんです。
+* 海外ドラマ「24」  
+　今更ながら・・  
+　スリリングで、誰を信用していいかわからなくなるストーリー展開にハマってしまった。
+
+
 ## リンク
 * Facebook：[https://www.facebook.com/chika.minamide](https://www.facebook.com/chika.minamide)
 * Twitter：[@yum8686](https://twitter.com/yum8686)
