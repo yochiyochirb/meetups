@@ -24,6 +24,13 @@ Git, Github   | 4 (蕾)
 * ゲーム最近やってない
   * Minecraftくらい
 
+## 最近ハマっていること（2014/03/15現在）
+* vimプラグインやっと入れた
+  * neobundle, neosnipet, unite, unite-outline, vim-fugitive, wildfire
+  * まだ使いこなせてない
+* Hubot + Idobata で人工無能とか便利機能とか
+  * 2014/03/15 地元の長岡でLT
+
 ## 言語
 * C, C++
 * Ruby
@@ -104,3 +111,4 @@ Go              | ×  | ×
     * 定量化指標について勉強したい
     * チームやプロジェクト状態を可視化したりしたい
     * 英語の技術書がんばって読んでる
+
