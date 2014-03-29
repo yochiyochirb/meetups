@@ -65,8 +65,11 @@ Git, Github   | 4 (蕾)
 
 ## 好きなWebアプリ
 * Hootsuite
+  * Twitter, Facebookなどを一括管理
 * Feedly
+  * スッキリとしたデザインのRSSリーダー
 * Slid.es
+  * 超手軽にプレゼン資料作れる
 
 ## 2014年の目標
 * 基盤づくり
