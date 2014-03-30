@@ -18,7 +18,7 @@
 
 ## いちばん好きなWebアプリ(2014/03/31)
 
-[favorite web app](http://lcom.sakura.ne.jp/NulData/ "プロ野球ヌルデータ置き場")
+[プロ野球ヌルデータ置き場](http://lcom.sakura.ne.jp/NulData/)
 
 ## 住んでいるところ
 
