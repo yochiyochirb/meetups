@@ -25,7 +25,8 @@
 仕事でもバージョン管理等にGithubを使用しています。
 
 ## 好きな Web アプリ
-"Springpad" https://springpad.com
+**"Springpad"** https://springpad.com
+
 日記やメモをつけるのが好きだけど、Evernote はちょっとカワイくない...と思っていた私の救世主的なサービス。
 
 見た目もクールだし、いろいろなタイプの記録をつけることができるのですごく便利!! 4年で 2,400 springs たまりました。
