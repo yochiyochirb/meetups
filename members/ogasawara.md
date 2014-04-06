@@ -17,6 +17,11 @@
 - Gitはちょっと触ってますが、まだまだ使いこなせてないです。
 - よちよちで触るようになって、その便利さに日々感動してます。
 
+## 一番好きなWebアプリ
+- [Github](https://github.com/) 詳しくなりたいです
+- [Idobata](https://idobata.io/) 会社でも広めようと画策してます
+- [iWork for iCloud](https://www.icloud.com/) keynoteとか使えて便利です
+
 ## 最近ハマっていること
 ### 水泳:swimmer:
 - 運動不足解消と、すぐ風邪をひくので、体力を付けるために始めました
