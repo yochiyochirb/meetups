@@ -69,6 +69,11 @@ Windowsではこれ。
 　今更ながら・・  
 　スリリングで、誰を信用していいかわからなくなるストーリー展開にハマってしまった。
 
+## 好きなWebアプリケーション
+* Instagram (iOS/Android)  
+　写真加工アプリは色々あるけどやっぱりこれが好き。  
+* SlideStory (iOS)  
+　写真や動画を32秒のおしゃれムービーにしてくれる。
 
 ## リンク
 * Facebook：[https://www.facebook.com/chika.minamide](https://www.facebook.com/chika.minamide)
