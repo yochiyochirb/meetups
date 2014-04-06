@@ -61,7 +61,8 @@ Git, Github   | 4 (蕾)
   * TrailingSpaces ... スペースを強調表示してくれる！
   * Theme - Flatland ... フラットでかっこいいテーマ！
 * ターミナルから直接操作したいときは vim
-  * プラグイン何も入ってないけど、割と満足している
+  * 入れているプラグインは少なめ
+  * neobundle, neosnipet, unite, unite-outline, vim-fugitive, wildfire
 
 ## 好きなWebアプリ
 * Hootsuite
