@@ -24,6 +24,10 @@
 
 仕事でもバージョン管理等にGithubを使用しています。
 
+## GW にやること・やりたいこと
+* 掛川花鳥園 (http://k-hana-tori.com/) に行く
+* 自分が持っている技術の棚卸し
+
 ## 好きな Web アプリ
 **"Springpad"** https://springpad.com
 
