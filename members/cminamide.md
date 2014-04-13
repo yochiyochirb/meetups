@@ -35,7 +35,7 @@ Windowsではこれ。
 
 ## ゴールデンウィークにやること・やりたいこと
 * [ネモフィラ](https://www.shikiclub.co.jp/shikitabi/trip_day/hitachi-spring_flower.html)に会いにいく。  
-* Ruby本を読み進める！（ずっと借りている例の本とか、楽しいRubyとか）
+* Ruby本を読み進める！（ずっと借りたままの「たった2日でできるRuby」とか、「たのしいRuby」とか）
 
 ## 2014年の目標と進捗
 とにかく継続力がない人間なので、小さなことでも「続ける」2014年にしたい！  
