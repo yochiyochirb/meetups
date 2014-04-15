@@ -25,7 +25,7 @@
 # Idobata rooms
 ふだんは Github, Facebook の他に Idobata を使ってコミュニケーションをとっています。
 
-** どなたでも覗いていただけますが、投稿はよちよち.rb 対象メンバーのみでお願いします。 **
+**どなたでも覗いていただけますが、投稿はよちよち.rb 対象メンバーのみでお願いします。**
 
 ## メインの活動場所
 [Lounge](https://idobata.io/organizations/yochiyochirb/rooms/lounge/join_request/b889acf1-0e89-49cd-abd9-c1b29acc313a) : 雑談用 room。Github hook はこのへやに飛んできます。
