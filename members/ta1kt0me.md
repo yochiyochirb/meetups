@@ -52,6 +52,16 @@
 	- ついでに道中の積本消化
 - BBQしたい
 
+- [J-WAVE & Roppongi Hills present TOKYO M.A.P.S](http://www.tokyomaps.jp/schedule/)見に行く
+
+## 地元のおすすめ
+- 利根川ハクレンジャンプ
+  - 跳ねたい人へおすすめ
+  - [参考1](http://az490469.vo.msecnd.net/~/media/kodawari/2013/07/29hakuren/G20130728TTT0700069G3000000.jpg?h=298&mh=476&mw=640&w=640)、[参考2](http://www.takumaro.co.jp/blog/2011/07/post-25.php)
+
+- 気球体験（渡良瀬遊水地）
+  - 飛びたい人へおすすめ
+  - [参考](http://www1a.biglobe.ne.jp/mediaeye/index/news/08-0405/DSC_6553.gif)
 
 ## 目標と進捗(2014)
 
@@ -60,4 +70,3 @@
 | 読む - はじめてのruby  |  X  |     |
 | RubyMonk(Ruby Primer)  |  X  |     |
 | jekyllでblogを作る     |  X  |     |
-
