@@ -34,14 +34,15 @@ __JR:日暮里駅__
 
 ## 出身地自慢
 長野県なので、、、  
-・スキー場がたくさんある。  
-・♨がたくさんある。  
-・イナゴの佃煮が美味  
+
+* スキー場がたくさんある。  
+* ♨がたくさんある。  
+* イナゴの佃煮が美味  
   
 
 ## マイブーム
-・PS VITA  (完了)  
-・PhotoShopとIllustratorとLightroom５  
+* PS VITA  (完了)  
+* PhotoShopとIllustratorとLightroom５  
 
 
 
@@ -52,8 +53,8 @@ __PhotoshopやIllustratorの使い方を覚える(進捗：35%)__
 
 * ２月：Objective-Cの技術書を１冊読了する。Illustratorの参考書を読み始める。  
 * ３月：新規サービスのAPI開発をすることになったのですかさずRailsで実装を始める。   
- 英語の勉強がおろそかになる。  
- AndroidアプリのサーバサイドをRailsで開発してみた。(現在トライアル中)  
+   *  英語の勉強がおろそかになる。  
+   *  AndroidアプリのサーバサイドをRailsで開発してみた。(現在トライアル中)  
 
 ## その他
 twitter -> https://twitter.com/altarf8  
