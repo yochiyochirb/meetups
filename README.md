@@ -34,6 +34,12 @@
 
 * [Beer](https://idobata.io/organizations/yochiyochirb/rooms/beer/join_request/b88fc1de-fa68-485e-b9ae-233a63b9f33d) : ビールの話題専用 room
 
+* [Ruby](https://idobata.io/organizations/yochiyochirb/rooms/Ruby/join_request/3ef05aa0-e347-4a93-9137-e2b070ccd86b)
+
+* [Rails](https://idobata.io/organizations/yochiyochirb/rooms/Rails/join_request/9bd78656-efb5-4b44-8945-da13ff378a24)
+
+* [Git/Github](https://idobata.io/organizations/yochiyochirb/rooms/Git/join_request/ffeb9da3-79f2-40f8-aadf-bac24cb32065)
+
 ## その他トピックごとの rooms
 * [Database](https://idobata.io/organizations/yochiyochirb/rooms/database/join_request/431fd446-bfbe-41b0-b5c5-ee0b38dc255f)
 
@@ -44,8 +50,6 @@
 * [Hubot](https://idobata.io/organizations/yochiyochirb/rooms/hubot/join_request/a7ced22c-96ab-419e-8bfe-063f311e7991)
 
 * [Music](https://idobata.io/organizations/yochiyochirb/rooms/music/join_request/15089b8f-65fd-429d-8c60-9aa02ad27bec)
-
-* [Ruby](https://idobata.io/organizations/yochiyochirb/rooms/Ruby/join_request/3ef05aa0-e347-4a93-9137-e2b070ccd86b)
 
 # ミートアップに参加するには
 ミートアップは毎週月曜日 20:00 から開催しています。
