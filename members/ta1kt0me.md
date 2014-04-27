@@ -63,6 +63,12 @@
   - 飛びたい人へおすすめ
   - [参考](http://www1a.biglobe.ne.jp/mediaeye/index/news/08-0405/DSC_6553.gif)
 
+## おすすめ！
+
+| おすすめ | 内容 |
+| :------- | :--- |
+| 技術書   | [７つの言語 ７つの世界](http://www.amazon.co.jp/gp/product/4274068579/) |
+
 ## 目標と進捗(2014)
 
 |          目標          |  3  |  4  |
