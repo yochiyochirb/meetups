@@ -32,7 +32,7 @@ Rails Girls Tokyo, more!でRSSリーダーを作成 =>p4dというもくもく�
 ***
 
 ## 最近読んだオススメの技術書
-[**「作りながら学ぶ Ruby 入門」**](http://www.amazon.co.jp/%E4%BD%9C%E3%82%8A%E3%81%AA%E3%81%8C%E3%82%89%E5%AD%A6%E3%81%B6Ruby%E5%85%A5%E9%96%80-%E7%AC%AC2%E7%89%88-%E4%B9%85%E4%BF%9D%E7%A7%8B-%E7%9C%9F/dp/4797371277)
+[**「作りながら学ぶ Ruby 入門」**](http://www.amazon.co.jp/dp/4797371277)
 
 実ははじめに読んだのはずっと前なんですが、最近読み返しています。
 
