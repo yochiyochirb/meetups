@@ -24,6 +24,12 @@
 ## Ruby On Railsとわたし（ステータス2：ふたば）
 * RubyもRailsもまったく触ったことがなく、よちよち.rbでいちから勉強中。
 
+## 出身地自慢（三重県）
+* やっぱり心のふるさと「伊勢神宮」が一番
+* 赤福以外におすすめな和菓子がたくさん  
+[へんば餅](http://www.henbaya.jp/)：赤福よりも好きという県人が結構いる  
+[朔日餅](http://www.akafuku.co.jp/product/tsuitachimochi/)：毎月一日限定で販売される季節のお餅
+
 ## ゴールデンウィークにやること・やりたいこと
 * [ネモフィラ](https://www.shikiclub.co.jp/shikitabi/trip_day/hitachi-spring_flower.html)に会いにいく。  
 * Ruby本を読み進める！（ずっと借りたままの「たった2日でできるRuby」とか、「たのしいRuby」とか）
