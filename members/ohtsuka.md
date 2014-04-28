@@ -21,7 +21,7 @@
 [SQLの絵本](http://www.amazon.co.jp/dp/4798106690)
 * SQLの入門書として良いのではないかと思います。
 * Railsを扱う上では、ActiveRecordのメソッドなどがよろしくやってくれるためあまりSQLを意識することはありませんが、知っておくと色々便利かもしれません。
-* rails console で色々走らせながら調べてみるのも良いかと思います。
+* `rails console`で色々走らせながら調べてみるのも良いかと思います。
 ```ruby
 pry(main)> Player.first
 ```
