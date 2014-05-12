@@ -55,6 +55,12 @@
 * BBQしたい
 * [J-WAVE & Roppongi Hills present TOKYO M.A.P.S](http://www.tokyomaps.jp/schedule/)見に行く
 
+# よちよち.rb に来るようになって変わったこと
+
+* 勉強会に気軽に参加できるようになった
+* わからないということに気付けるようになった
+* 技術的な事を人と話すの楽しい
+
 # おすすめ！
 
 | おすすめ | 内容 | コメント |
