@@ -20,19 +20,19 @@
 ## 宿題のおまけ
 よく使っているコマンドを調べてみました。（とりあえず トップ20 だけ抜き出し）
 ```sh
-$ egrep -o ';g(?:it)?\s\w*' ~/.zsh_history | cut -f 2 -d ' ' | sed -e "s/^co$/commit/" -e "s/^st$/status/" -e "s/^lg/log/" | sort | uniq -c | sort -r
+$ egrep -o ';g(?:it)?\s\w*' ~/.zsh_history | cut -f 2 -d ' ' | sed -e "s/^co$/checkout/" -e "s/^st$/status/" -e "s/^lg/log/" | sort | uniq -c | sort -r
 
- 635 commit
- 550 add
+ 551 add
+ 493 commit
  451 status
  286 log
  268 diff
- 255 push
+ 256 push
  220 branch
+ 213 checkout
  144 rebase
  120 grep
   82 remote
-  70 checkout
   69 pull
   61 reset
   47 rm
@@ -42,7 +42,6 @@ $ egrep -o ';g(?:it)?\s\w*' ~/.zsh_history | cut -f 2 -d ' ' | sed -e "s/^co$/co
   17 revert
   17 bisect
   14 reflog
-  14 init
 ```
 
 
