@@ -18,7 +18,7 @@
 定番！
 
 ## 宿題のおまけ
-よく使っているコマンドを調べてみました。
+よく使っているコマンドを調べてみました。（とりあえず トップ10 だけ抜き出し）
 ```sh
 $ egrep -o ';g(?:it)?\s\w*' ~/.zsh_history | cut -f 2 -d ' ' | sed -e "s/^co$/commit/" -e "s/^st$/status/" -e "s/^lg/log/" | sort | uniq -c | sort -r
 
