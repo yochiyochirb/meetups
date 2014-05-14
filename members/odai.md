@@ -11,6 +11,30 @@
 # Github とわたし
 わたしのステータスは **3（ほんば）** です。  
 
+# 思い入れのある Git コマンド
+* git diff
+* git grep
+定番！
+
+## 宿題のおまけ
+よく使っているコマンドを調べてみました。
+```sh
+$ egrep -o ';g(?:it)?\s\w*' ~/.zsh_history | cut -f 2 -d ' ' | sed -e "s/^co$/commit/" -e "s/^st$/status/" -e "s/^lg/log/" | sort | uniq -c | sort -r
+
+ 635 commit
+ 550 add
+ 451 status
+ 286 log
+ 268 diff
+ 255 push
+ 220 branch
+ 144 rebase
+ 120 grep
+  82 remote
+  70 checkout
+```
+
+
 # 2014年の目標
 - 英語
 
