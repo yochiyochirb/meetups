@@ -1,6 +1,6 @@
 # 自己紹介
 ## はじめまして
-シュウ @akinomaeni です<br>
+シュウ @akinomaeni です  
 2年前ぐらいからWebの開発しています
 
 - PHPとRuby
@@ -13,9 +13,9 @@
 
 ## Git Github とわたし
 ステータス3 : ほんば
-半年Subversionを使う<br>
-その後Gitに移行<br>
-Githubは少しだけ非公開Repositoryで3人ぐらいで開発に使う<br>
+半年Subversionを使う  
+その後Gitに移行  
+Githubは少しだけ非公開Repositoryで3人ぐらいで開発に使う  
 あまりIssuesやPull Requestは使ったことがないです
 
 ## 大阪のいい所
