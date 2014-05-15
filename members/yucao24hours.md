@@ -24,6 +24,33 @@
 
 仕事でもバージョン管理等にGithubを使用しています。
 
+## 思い入れのある Git コマンド
+ずばり、 `git checkout` です。
+
+`git checkout --help` すると
+
+```
+SYNOPSIS
+       git checkout [-q] [-f] [-m] [<branch>]
+       git checkout [-q] [-f] [-m] --detach [<branch>]
+       git checkout [-q] [-f] [-m] [--detach] <commit>
+       git checkout [-q] [-f] [-m] [[-b|-B|--orphan] <new_branch>] [<start_point>]
+       git checkout [-f|--ours|--theirs|-m|--conflict=<style>] [<tree-ish>] [--] <paths>...
+       git checkout [-p|--patch] [<tree-ish>] [--] [<paths>...]
+```
+
+こんなに出てくる。
+
+Git の入門的な説明でも割と早い段階で使うことになるコマンドだけど、全然使いこなせてない〜けど、 `checkout` がわかると Git のことが格段に理解しやすくなる気がするので、早くもっと仲良くなりたいと思っています。
+
+最近は、トピックブランチ上で他のブランチ(たいては master)の更新内容を反映させたいときに、 `git fetch origin` をしたあとに
+
+```shell
+git checkout -b mybranch origin/mybranch
+```
+
+をする理由がハッキリとわからなくて、調べているところです。（start_point を指定してるんだろうなとは思うんですが、そのブランチ既にあるよって言われる。そりゃそうだけど、じゃーなんでわざわざ`-b`つけてやるんだろう）
+
 ## 2014 年の目標と進捗
 |            目標           | Jan | Feb | Mar | Apr | May | Jun | Jul | Aug | Sep | Oct | Nov | Dec |
 |:-------------------------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
