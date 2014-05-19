@@ -27,7 +27,7 @@ Git, Github   | 4 (蕾)
   * `-p`付きが一番使用頻度高い気がする。いらない変更削ったりしてコミットを整える
 * `git diff --name-status`
   * 最近変更があったファイルをrubocopとかに一括で流したりするときに使ってる
-  * `git diff --name-status master | grep '^M.*rb$' | awk '{ print $2 }'`
+  * `git diff --name-only --diff-filter=MACR master | grep -e '.rb$'
   * なんかもっと良い方法ある気がする…
 
 ### よちよち.rb をはじめて変わったこと
