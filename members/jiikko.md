@@ -47,6 +47,10 @@ Rails AntiPatterns http://it-ebooks.info/book/1504/
 * モチベーション
 * 自分に厳しく
 
+## 思い入れのあるGitコマンド
+* git blame
+ * Vimプラグインとの連携でやばい
+
 ## 2014年の抱負
 * セキュリティ周りを強くする
 * RubyのOSSに貢献する
