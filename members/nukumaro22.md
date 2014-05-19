@@ -18,29 +18,14 @@
 * あとangularJSも不自由なく使えるようになりたい  
 
 今年前年はとにかくinput重視したものにしたいなぁ。。。  
-## ゴールデンウィークにやること・やりたいこと
-* 登山
-* 積んである技術書の消化
 
-## これから読みたい本的なsomothing
-* [Head First Rails](http://www.oreilly.co.jp/books/9784873114385/)
-* [AngularJSアプリケーション開発ガイド](http://www.oreilly.co.jp/books/9784873116679/) 
-* [集合知プログラミング](http://www.oreilly.co.jp/books/9784873113647/)
-* [数学ガール 乱択アルゴリズム](http://www.hyuki.com/girl/random.html)
 
-## 出身地自慢的なsomething
+## Gitコマンド
+### git log
+#### 色付きでNWグラフ出すとき
+    git log --graph --pretty='format:%C(yellow)%h%Creset %s %Cgreen(%an)%Creset %Cred%d%Creset'
 
-こう見えても一応長崎産です。 
-生まれたての頃は長崎にどっぷりだったと聞いています。  
-海が近い所なので魚とかイカとかがやたら美味しいですよ。
+最近、コミット毎のdiff追うときはtigコマンドも使ったりします
 
-## 最近読んだおすすめな技術書
-###readable code
-ガード節とかめっちゃ参考になりました  
 
- * できるところは早めにリターンする  
- * 使えるところはunlessにする
 
-## 参加後になって変わったこと
-* ささいな事でも不明点は残さないようになった(気がします)
-* 同じ事を学ぶ目線の人たちと定期的に会うことで学習意欲が持続してる(気がします)
