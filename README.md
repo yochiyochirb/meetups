@@ -41,6 +41,10 @@
 * [Git/Github](https://idobata.io/organizations/yochiyochirb/rooms/Git/join_request/ffeb9da3-79f2-40f8-aadf-bac24cb32065)
 
 ## その他トピックごとの rooms
+* [Vim](https://idobata.io/organizations/yochiyochirb/rooms/vim/join_request/5c175f42-bd42-49c2-a6fe-fc9bff024051)
+
+* [SublimeText](https://idobata.io/organizations/yochiyochirb/rooms/SublimeText/join_request/6c4a7ca1-b772-47da-aa0c-23f696fc1238)
+
 * [Database](https://idobata.io/organizations/yochiyochirb/rooms/database/join_request/431fd446-bfbe-41b0-b5c5-ee0b38dc255f)
 
 * [Design](https://idobata.io/organizations/yochiyochirb/rooms/design/join_request/eb16262b-ed66-4ae3-b00e-f4e89effd538)
