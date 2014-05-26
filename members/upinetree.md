@@ -25,10 +25,11 @@ Git, Github   | 4 (蕾)
 
 * `git add -p`
   * `-p`付きが一番使用頻度高い気がする。いらない変更削ったりしてコミットを整える
-* `git diff --name-status`
+* `git diff --name-only`
   * 最近変更があったファイルをrubocopとかに一括で流したりするときに使ってる
-  * `git diff --name-only --diff-filter=MACR master | grep -e '.rb$'
-  * なんかもっと良い方法ある気がする…
+  * `git diff --name-only --diff-filter=MACR master | grep -e '.rb$'`
+  * `diff --name-status`というのもあるよ
+  * diffは実は奥が深いんだなーと思いました
 
 ### よちよち.rb をはじめて変わったこと
 * 楽しく話せる仲間がたくさんできた！
