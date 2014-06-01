@@ -65,8 +65,8 @@ $ egrep -o ';g(?:it)?\s\w*' ~/.zsh_history | cut -f 2 -d ' ' | sed -e "s/^co$/ch
 # 進捗どうですか
 |               | Jan | Feb | Mar | Apr | May | Jun | Jul | Aug | Sep | Oct | Nov | Dec |
 |:--------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|----:|
-| English       |  o  |  o  |  o  |  x  |     |     |     |     |     |     |     |     |
-| Contributions |  60 |  36 |  78 | 125 |     |     |     |     |     |     |     |     |
-| Gym training  |   0 |   0 |   0 |   4 |     |     |     |     |     |     |     |     |
-| Blog          |   4 |   3 |   0 |   4 |     |     |     |     |     |     |     |     |
+| English       |  o  |  o  |  o  |  x  |  o  |     |     |     |     |     |     |     |
+| Contributions |  60 |  36 |  78 | 125 | 115 |     |     |     |     |     |     |     |
+| Gym training  |   0 |   0 |   0 |   4 |   4 |     |     |     |     |     |     |     |
+| Blog          |   4 |   3 |   0 |   4 |   4 |     |     |     |     |     |     |     |
 
