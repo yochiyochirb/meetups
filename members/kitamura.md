@@ -56,9 +56,9 @@ __git checkout__
 
 
 ## 2014年の目標と「進捗どうですか」
-__Railsを使ったiPhoneアプリを１個リリースする(進捗：70%)__  
+__Railsを使ったiPhoneアプリを１個リリースする(進捗：20%)__  
 __TOEIC700点とる(進捗：25%)__  
-__PhotoshopやIllustratorの使い方を覚える(進捗：35%)__  
+__PhotoshopやIllustratorの使い方を覚える(進捗：40%)__  
 
 * ２月：Objective-Cの技術書を１冊読了する。Illustratorの参考書を読み始める。  
 * ３月：新規サービスのAPI開発をすることになったのですかさずRailsで実装を始める。   
