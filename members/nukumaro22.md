@@ -14,18 +14,17 @@
 # その他
 
 ## 2014年の目標
-* scaffoldを使わずにアプリをさくさく作れるようになること
-* あとangularJSも不自由なく使えるようになりたい  
-
-今年前年はとにかくinput重視したものにしたいなぁ。。。  
-
-
-## Gitコマンド
-### git log
-#### 色付きでNWグラフ出すとき
-    git log --graph --pretty='format:%C(yellow)%h%Creset %s %Cgreen(%an)%Creset %Cred%d%Creset'
-
-最近、コミット毎のdiff追うときはtigコマンドも使ったりします
+* Rails scaffoldを使わずにアプリをさくさく作れるようになること
+* AngularJSも不自由なく使えるようになりたい  
+* Androidもひと通りアプリ作れるようになる  
 
 
 
+## 進捗どうすか？
+
+### 2014/06/02
+* Rails => 4月がピークだった。勉強に費やす時間が減ってる。やばい。  
+* AngularJS => 触ってるけどよくわからん。やばい。  
+* Android => 今月から始める。始めてない。 やばい。  
+
+#### => 結論 やばい
