@@ -39,6 +39,8 @@
 * [Git/Github](https://idobata.io/organizations/yochiyochirb/rooms/Git/join_request/ffeb9da3-79f2-40f8-aadf-bac24cb32065)
 
 ## その他トピックごとの rooms
+* [Silver](https://idobata.io/organizations/yochiyochirb/rooms/silver/join_request/baddd7b7-836b-4536-ab67-6be7acc3fd3e) : Ruby 認定試験技術者 Silver みんなで合格しよう会
+
 * [Vim](https://idobata.io/organizations/yochiyochirb/rooms/vim/join_request/5c175f42-bd42-49c2-a6fe-fc9bff024051)
 
 * [SublimeText](https://idobata.io/organizations/yochiyochirb/rooms/SublimeText/join_request/6c4a7ca1-b772-47da-aa0c-23f696fc1238)
