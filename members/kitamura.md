@@ -54,6 +54,9 @@ jsが動く仕組み的な所から始まるけど、開発の仕方、ライブ
 __git checkout__  
 理由：今までsvnでバージョン管理していたので、checkoutの用途が全然違うのが最初とても困りました。  
 
+## もくもく会でやりたい事
+* [これ](http://qiita.com/alpaca_taichou/items/ab2ad83ddbaf2f6ce7fb)を中心に、vimプラグインを追加したりして戦闘力高めたい
+* [bootswatchのcyborg](http://bootswatch.com/cyborg/)をgemを使ってrailsに導入してみたい
 
 ## 2014年の目標と「進捗どうですか」
 __Railsを使ったiPhoneアプリを１個リリースする(進捗：20%)__  
