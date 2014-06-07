@@ -24,6 +24,7 @@
 ## エディタ
 
 * sublime text
+* atom
 
 ## 使える言語
 
@@ -47,6 +48,11 @@
 
 * 双葉
   * git、githubはちょっと触っただけ、SVNは仕事で使ったことはある
+
+# もくもく会
+
+* mixi-incの[Rackの基礎](http://mixi-inc.github.io/RubyTraining/slides/#/9)をやる
+* もしくはその他なんか
 
 # 2014GWにしたいこと
 
@@ -84,4 +90,5 @@
 | 読む - はじめてのruby  |  X  |  O  |  O  |     |
 | RubyMonk(Ruby Primer)  |  X  |  X  |  X  |     |
 | blogを週1で更新        |  -  |  -  |  -  |     |
+| アプリ作る             |  -  |  -  |  -  |     |
 | jekyllでblogを作る     |  X  |  O  |CLOSE|     |
