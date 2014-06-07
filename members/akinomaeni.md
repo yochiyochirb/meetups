@@ -16,7 +16,7 @@
 半年Subversionを使う  
 その後Gitに移行  
 Githubは少しだけ非公開Repositoryで3人ぐらいで開発に使う  
-あまりIssuesやPull Requestは使ったことがないです
+よちよちで慣れたおかげで色々なプロジェクトを見る時にIssuesやPull Requestを見るようになりました
 
 ## 22.5回のもくもく会でやりたいこと
 一人で進めていたRails Tutorialの続きをします。
