@@ -24,6 +24,7 @@
 * Rails チュートリアルを使用したグループ制勉強会（通常）
 * よちよち.rb 昼間の部
 * [Web を支える技術 読書会](https://github.com/yochiyochirb/meetups/wiki/reading-webtechbook)
+* よちよちもくもく会
 
 # Idobata rooms
 ふだんは Github, Facebook の他に Idobata を使ってコミュニケーションをとっています。
