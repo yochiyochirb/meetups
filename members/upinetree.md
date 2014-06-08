@@ -21,6 +21,12 @@ Git, Github   | 4 (蕾)
 
 過去の宿題は[こちら](https://gist.github.com/upinetree/c584c55571b209669867)
 
+### 22.5回（もくもく会）でやること
+
+* おやすみした分追いつく
+* Rackについて調べる
+* AngularJSとか
+
 ## 趣味
 * ギター
 * 音楽
