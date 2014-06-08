@@ -20,6 +20,11 @@
 
 主催者もこの対象どおりですので、みなさんと一緒に学び成長していけたらいいなと思いながら開催しています。
 
+# Activities
+* Rails チュートリアルを使用したグループ制勉強会（通常）
+* よちよち.rb 昼間の部
+* [Web を支える技術 読書会](https://github.com/yochiyochirb/meetups/wiki/reading-webtechbook)
+
 # Idobata rooms
 ふだんは Github, Facebook の他に Idobata を使ってコミュニケーションをとっています。
 
@@ -28,7 +33,7 @@
 ## メインの活動場所
 * [Lounge](https://idobata.io/organizations/yochiyochirb/rooms/lounge/join_request/b889acf1-0e89-49cd-abd9-c1b29acc313a) : 雑談用 room。Github hook はこのへやに飛んできます。
 
-* [WebTechBook](https://idobata.io/organizations/yochiyochirb/rooms/webtechbook/join_request/ed32c5cd-ae4b-4283-800f-0a47f5ceaf6a) : 「Web を支える技術」読書会用 room
+* [WebTechBook](https://idobata.io/organizations/yochiyochirb/rooms/webtechbook/join_request/ed32c5cd-ae4b-4283-800f-0a47f5ceaf6a) : 「Web を支える技術」読書会用 room (くわしいご案内は [こちら](https://github.com/yochiyochirb/meetups/wiki/reading-webtechbook#about-this-event))
 
 * [Beer](https://idobata.io/organizations/yochiyochirb/rooms/beer/join_request/b88fc1de-fa68-485e-b9ae-233a63b9f33d) : ビールの話題専用 room
 
