@@ -71,3 +71,6 @@ Sublimergeというプラグインは便利diffが簡単に取れます。
 ##おすすめの技術書
 [JavaScript本格入門　~モダンスタイルによる基礎からAjax・ｊQueryまで](http://www.amazon.co.jp/JavaScript%E6%9C%AC%E6%A0%BC%E5%85%A5%E9%96%80-%EF%BD%9E%E3%83%A2%E3%83%80%E3%83%B3%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB%E3%81%AB%E3%82%88%E3%82%8B%E5%9F%BA%E7%A4%8E%E3%81%8B%E3%82%89Ajax%E3%83%BB%EF%BD%8AQuery%E3%81%BE%E3%81%A7-%E5%B1%B1%E7%94%B0-%E7%A5%A5%E5%AF%9B/dp/4774144665/ref=sr_1_2?s=books&ie=UTF8&qid=1400469461&sr=1-2)  
 　　JavaScriptのことが「ちゃんと」わかる。JavaScriptの基本。
+
+##もくもく会でやりたいこと
+Hamlを書いてみようかな。と思っています。
