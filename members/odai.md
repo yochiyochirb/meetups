@@ -11,40 +11,6 @@ Ruby コミュニティに貢献できるエンジニアになりたいので、
 # Github とわたし
 わたしのステータスは **4（つぼみ）** です。  
 
-# 思い入れのある Git コマンド
-* git diff
-* git grep
-
-定番！
-
-## 宿題のおまけ
-よく使っているコマンドを調べてみました。（とりあえず トップ20 だけ抜き出し）
-```sh
-$ egrep -o ';g(?:it)?\s\w*' ~/.zsh_history | cut -f 2 -d ' ' | sed -e "s/^co$/checkout/" -e "s/^st$/status/" -e "s/^lg/log/" | sort | uniq -c | sort -r
-
- 551 add
- 493 commit
- 451 status
- 286 log
- 268 diff
- 256 push
- 220 branch
- 213 checkout
- 144 rebase
- 120 grep
-  82 remote
-  69 pull
-  61 reset
-  47 rm
-  27 stash
-  23 merge
-  23 clone
-  17 revert
-  17 bisect
-  14 reflog
-```
-
-
 # 2014年の目標
 - 英語
 
@@ -70,3 +36,5 @@ $ egrep -o ';g(?:it)?\s\w*' ~/.zsh_history | cut -f 2 -d ' ' | sed -e "s/^co$/ch
 | Gym training  |   0 |   0 |   0 |   4 |   4 |     |     |     |     |     |     |     |
 | Blog          |   4 |   3 |   0 |   4 |   4 |     |     |     |     |     |     |     |
 
+# 過去の宿題
+![こちら](https://gist.github.com/odaillyjp/ae33200fd8ffc9f35d6c)
