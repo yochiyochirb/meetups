@@ -41,4 +41,4 @@ RailsTutorial では触れることができていなかったけど、大事な
 | Blog          |   4 |   3 |   0 |   4 |   4 |     |     |     |     |     |     |     |
 
 # 過去の宿題
-![こちら](https://gist.github.com/odaillyjp/ae33200fd8ffc9f35d6c)
+[こちら](https://gist.github.com/odaillyjp/ae33200fd8ffc9f35d6c)
