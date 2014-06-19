@@ -1,13 +1,11 @@
 # よちよち.rbとは
-[このブログ記事](http://yucato.net/archives/615)で[私](https://twitter.com/yucato_)が言い出しっぺになった、**初心者の、初心者による、初心者のための Ruby on Rails4.0 勉強会(読書会)** です。
+[このブログ記事](http://yucato.net/archives/615)で[私](https://twitter.com/yucao24hours)が言い出しっぺになった、**初心者の、初心者による、初心者のための Ruby on Rails4.0 勉強会(読書会)** です。
 
 この勉強会のいちばんの目的は、Railsを習得することではありません。**目線の高さが同じ人といっしょにひとつの活動を根気よく続けることで自信をつけていくこと**、これが最大の目標です。
 
 講師と生徒、のような形式はとらないつもりです。みんなで転んで、みんなで進んでいきます。
 
-
 効率よりも経過を重視します。2時間で1ページも進まなくても、その時間で考え実行したことが宝です。
-
 
 参加/不参加はお気軽にどうぞ。無理のない範囲で、たのしく技術をみがいていきましょう。
 
@@ -20,7 +18,13 @@
 
 具体的には、プログラミング歴2年以内程度 を想定しています。
 
-ちなみに主催者は、Webエンジニア歴約2年・Ruby/Railsエンジニア歴6ヶ月で、まさにこの条件にほぼすべて当てはまるような人間です。
+主催者もこの対象どおりですので、みなさんと一緒に学び成長していけたらいいなと思いながら開催しています。
+
+# Activities
+* Rails チュートリアルを使用したグループ制勉強会（通常）
+* よちよち.rb 昼間の部
+* [Web を支える技術 読書会](https://github.com/yochiyochirb/meetups/wiki/reading-webtechbook)
+* よちよちもくもく会
 
 # Idobata rooms
 ふだんは Github, Facebook の他に Idobata を使ってコミュニケーションをとっています。
@@ -30,7 +34,7 @@
 ## メインの活動場所
 * [Lounge](https://idobata.io/organizations/yochiyochirb/rooms/lounge/join_request/b889acf1-0e89-49cd-abd9-c1b29acc313a) : 雑談用 room。Github hook はこのへやに飛んできます。
 
-* [WebTechBook](https://idobata.io/organizations/yochiyochirb/rooms/webtechbook/join_request/ed32c5cd-ae4b-4283-800f-0a47f5ceaf6a) : 「Web を支える技術」読書会用 room
+* [WebTechBook](https://idobata.io/organizations/yochiyochirb/rooms/webtechbook/join_request/ed32c5cd-ae4b-4283-800f-0a47f5ceaf6a) : 「Web を支える技術」読書会用 room (くわしいご案内は [こちら](https://github.com/yochiyochirb/meetups/wiki/reading-webtechbook#about-this-event))
 
 * [Beer](https://idobata.io/organizations/yochiyochirb/rooms/beer/join_request/b88fc1de-fa68-485e-b9ae-233a63b9f33d) : ビールの話題専用 room
 
@@ -41,6 +45,8 @@
 * [Git/Github](https://idobata.io/organizations/yochiyochirb/rooms/Git/join_request/ffeb9da3-79f2-40f8-aadf-bac24cb32065)
 
 ## その他トピックごとの rooms
+* [Silver](https://idobata.io/organizations/yochiyochirb/rooms/silver/join_request/baddd7b7-836b-4536-ab67-6be7acc3fd3e) : Ruby 認定試験技術者 Silver みんなで合格しよう会
+
 * [Vim](https://idobata.io/organizations/yochiyochirb/rooms/vim/join_request/5c175f42-bd42-49c2-a6fe-fc9bff024051)
 
 * [SublimeText](https://idobata.io/organizations/yochiyochirb/rooms/SublimeText/join_request/6c4a7ca1-b772-47da-aa0c-23f696fc1238)
@@ -79,7 +85,7 @@
 ## このリポジトリについて
 こちらは、コミュニティ運営のために必要なコードやファイルを保管しておくリポジトリです。
 
-メンバーのみなさまによる issue のご利用・自己紹介ファイルの追加/更新は自由ですが、それ以外の用途では使用しないでください。(必要がある時には @yucato (Twitter では @yucato_ ) までご相談ください。)
+メンバーのみなさまによる issue のご利用・自己紹介ファイルの追加/更新は自由ですが、それ以外の用途では使用しないでください。(必要がある時には @yucato (Twitter では @yucao24hours ) までご相談ください。)
 
 動作確認や Github の操作の練習には、 [yochiyochirb/sandbox](https://github.com/yochiyochirb/sandbox) をご利用ください。
 
