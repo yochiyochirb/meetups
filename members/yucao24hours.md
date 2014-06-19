@@ -2,7 +2,7 @@
 ## 好きなもの☃
 * **Perfume** 特に **のっち**
 * 多肉植物
-* 音楽(UNCHAINらへん)
+* 音楽(UNCHAINらへん。最近は the chef cooks me か ネットラジオの ABC-Lounge という Jazz 系のチャンネルをよく聴く)
 * 絵を描くこと
 
 ## 開発技術とのお付き合い歴
