@@ -3,7 +3,7 @@
 
 2011年8月からプライベートで Ruby を使ってプログラミングの勉強を始めました。
 Ruby コミュニティに貢献できるエンジニアになりたいので、地方Ruby会議のるびまレポート作成スタッフを経験したり、Rails を使っている会社のインターンシップに参加したりしていました。
-2014年6月から念願の Rails エンジニアになります。（予定）
+2014年6月から念願の Rails エンジニアになりました。
 
 # Ruby on Rails とわたし
 わたしのステータスは **4（つぼみ）** です。
@@ -11,39 +11,15 @@ Ruby コミュニティに貢献できるエンジニアになりたいので、
 # Github とわたし
 わたしのステータスは **4（つぼみ）** です。  
 
-# 思い入れのある Git コマンド
-* git diff
-* git grep
-
-定番！
-
-## 宿題のおまけ
-よく使っているコマンドを調べてみました。（とりあえず トップ20 だけ抜き出し）
-```sh
-$ egrep -o ';g(?:it)?\s\w*' ~/.zsh_history | cut -f 2 -d ' ' | sed -e "s/^co$/checkout/" -e "s/^st$/status/" -e "s/^lg/log/" | sort | uniq -c | sort -r
-
- 551 add
- 493 commit
- 451 status
- 286 log
- 268 diff
- 256 push
- 220 branch
- 213 checkout
- 144 rebase
- 120 grep
-  82 remote
-  69 pull
-  61 reset
-  47 rm
-  27 stash
-  23 merge
-  23 clone
-  17 revert
-  17 bisect
-  14 reflog
-```
-
+# 最近のビッグニュース
+6月6日『パーフェクトRails』発売！まだ途中ですが、とてもいい本だと思いました。
+『RailsTutorial』はRailsでアプリケーションを開発するときに必要なことが一通り書いてあるのかと思っていたのですが、『パーフェクトRails』を読んで初めて知ったことも多くて、Railsがもっと好きになりました。
+『パーフェクトRails』を読んで初めて知ったことをいくつかピックアップして書きます。
+- `rake db:migrate`を初めて実行したときにschema_migrationsというテーブルが作られるが、これは何なのか
+- app/assetsディレクトリの中にあるファイルに対して、Railsはどのライブラリを使って、どんな処理をしているのか
+- MVCだけの構造では開発が難しいケースがあることについて
+- Pry-debuggerやGuardは使っているけど、他にRailsアプリをデバッグするときに便利なGemは何なのか
+- ActiveRecordなどのORMを使うときに気をつけないといけない「N+1問題」とは何なのか
 
 # 2014年の目標
 - 英語
@@ -70,3 +46,5 @@ $ egrep -o ';g(?:it)?\s\w*' ~/.zsh_history | cut -f 2 -d ' ' | sed -e "s/^co$/ch
 | Gym training  |   0 |   0 |   0 |   4 |   4 |     |     |     |     |     |     |     |
 | Blog          |   4 |   3 |   0 |   4 |   4 |     |     |     |     |     |     |     |
 
+# 過去の宿題
+[こちら](https://gist.github.com/odaillyjp/ae33200fd8ffc9f35d6c)
