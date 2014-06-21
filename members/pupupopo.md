@@ -21,6 +21,9 @@
  * RailsGirlsのページを参考に、コピペで動かしてみた
  * http://www.ey-office.com/education_rails.html ← 1日入門コースを受けた
 
+## 最近の（個人的な）ビッグニュース
+ * 吹奏楽の神 屋比久勲 先生と一緒に写真撮った
+
 ## もくもく会でやりたいこと
  * Rails Tutorial の復習
 
