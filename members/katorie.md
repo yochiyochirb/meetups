@@ -29,11 +29,13 @@ Rails Girls Tokyo, more!でRSSリーダーを作成 =>p4dというもくもく�
 などを考えるようになりました。  
 「入門Git」は読みましたが、ひとりでしか使ったことがないので、一部しか理解できませんでした。  
 こないだ初めてコンフリクトを経験しました！
+Railsでつくっている[RSSリーダー](https://github.com/katorie/rss_reader)に、はじめてプルリクエストをもらいました！←NEW!
 
 ***
-## 最近のビッグニュース
-- 7月12日（土）にはじめて歌舞伎を見に行きます！[玉三郎さま、海老蔵、中車と豪華キャスト](http://www.kabuki-bito.jp/theaters/kabukiza/images/kabukiza_201407ff.jpg?html)に今からドキドキ。。
-- 7月18日（金）に清澄庭園でお茶会をします！　
+
+## 一番お世話になっている技術系サイト・ブログをひとつ
+最近一番お世話になったのは、htmlをhamlに変換してくれる[html2haml](http://html2haml.heroku.com/)です！
+ついでに「もしや」と思ってググってみたら、[css2sass](http://css2sass.heroku.com/)もありました。
 
 ***
 
@@ -54,7 +56,11 @@ Rails Girls Tokyo, more!でRSSリーダーを作成 =>p4dというもくもく�
 |ハーフマラソン完走|☓|☓|☓|
 
 ***
-## もくもく会でやりたいこと
+### 最近のビッグニュース
+- 7月12日（土）にはじめて歌舞伎を見に行きます！[玉三郎さま、海老蔵、中車と豪華キャスト](http://www.kabuki-bito.jp/theaters/kabukiza/images/kabukiza_201407ff.jpg?html)に今からドキドキ。。
+- 7月18日（金）に清澄庭園でお茶会をします！　
+
+# もくもく会でやりたいこと
 - Ruby技術者認定試験Silver の準備（[「ミニツク」](http://www.minituku.net/)をやってみる）
 - Nokogiriェ
 
