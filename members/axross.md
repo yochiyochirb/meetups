@@ -15,7 +15,12 @@
 
 - Rails : 3(ふたばくらい)
 - Git & GitHub : 3(ふたばくらい)
-- 
+
+## お世話になっているいろいろ
+
+- [connpass](connpass.com) : ベスト オブ イベント告知・管理サイト …だと思ってる
+- [twitter](https://twitter.com/) : 言わずも知れたRSSリーダー
+- [僕のはてぶ](http://hatebu.axross.org/) : おれおれキュレーションマガジン、作りました
 
 ## 2014年の抱負
 
