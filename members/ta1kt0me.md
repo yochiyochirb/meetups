@@ -49,6 +49,12 @@
 * 双葉
   * git、githubはちょっと触っただけ、SVNは仕事で使ったことはある
 
+# 一番お世話になっている技術系サイト・ブログひとつ
+
+* [rebuild.fm](http://rebuild.fm/)
+  * Tech系雑談Podcast。
+  * 技術の旬ネタ勉強の場に利用しています。２回目からずっと聞いてるんですが緩くて濃くて飽きが来ないのでおすすめです。
+
 # もくもく会
 
 * mixi-incの[Rackの基礎](http://mixi-inc.github.io/RubyTraining/slides/#/9)をやる
