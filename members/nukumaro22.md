@@ -16,10 +16,6 @@
 ## 一番お世話になっている技術系サイト
 * Qiita(http://qiita.com/)
   - 日本語大事。(甘え)
-* AngularJS日本語リファレンス (http://js.studio-kingdom.com/angularjs/)
-  - 最近AngularJsばっかり扱うので。。
-* AngularJS Ninja Blog(http://angularjsninja.com/)
-  - 外国人の方かと思いきや、思いっきし日本人の方のブログ
 
 ## 2014年の目標
 * Rails scaffoldを使わずにアプリをさくさく作れるようになること
