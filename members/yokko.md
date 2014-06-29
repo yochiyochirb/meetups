@@ -7,15 +7,15 @@ azuhata と申します。
 
 ## Ruby on Rails とわたし
 
-- status 2：ふたば（なりたて）   
+- status 2：ふたば   
 ただいま奮闘中。 
 Ruby on Railsのチュートリアルをコンプリートしたい。  
 
 ## Githubとわたし
 
 - status2：双葉    
-Pull request が慣れてきて、もう少しで**本葉**になれるかも。    
-進歩はゆっくりと。  
+会社でdataの管理してます。 
+只今、色々と奮闘中。   
 
 ## 2014年目標と進捗
 
@@ -48,4 +48,9 @@ Pull request が慣れてきて、もう少しで**本葉**になれるかも。
 ## マイブーム
 
 美味しいものを食べて写真を撮ってTwitterにあげること。  
+
+## お世話になっている技術系サイト
+
+-- Learn Git Branchng (Gitのブランチ機能を専門的に学習できるサイト今一番お世話になってます。)  
+http://k.swd.cc/learnGitBranching-ja/   
 
