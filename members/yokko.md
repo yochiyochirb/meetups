@@ -51,6 +51,7 @@ Ruby on Railsのチュートリアルをコンプリートしたい。
 
 ## お世話になっている技術系サイト
 
-Learn Git Branchng (Gitのブランチ機能を専門的に学習できるサイトで今一番お世話になってます。)  
-http://k.swd.cc/learnGitBranching-ja/   
+ Gitのブランチ機能を専門的に学習できるサイトで今一番お世話になってます。  
+- [Learn Git Branchng](http://k.swd.cc/learnGitBranching-ja/)
+
 
