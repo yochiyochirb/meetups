@@ -16,6 +16,12 @@
 
 * 3:ほんば
 
+## 一番お世話になっている技術系サイト
+
+* ベタですがリファレンスマニュアル的なものです
+ * [Ruby](http://docs.ruby-lang.org/ja/2.1.0/doc/index.html)
+ * [Rails](http://railsdoc.com/references)
+
 ## 最近の（個人的）ビッグニュース
 
 * ドアラ謎の流行
