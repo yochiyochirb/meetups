@@ -26,6 +26,10 @@
  * RailsGirlsのページを参考に、コピペで動かしてみた
  * http://www.ey-office.com/education_rails.html ← 1日入門コースを受けた
 
+## お世話になっている技術系サイト
+ * [Stack Overflow](http://stackoverflow.com)
+  * エラー文で検索した際に見てます
+
 ## 最近の（個人的な）ビッグニュース
  * 吹奏楽の神 屋比久勲 先生と一緒に写真撮った
 
