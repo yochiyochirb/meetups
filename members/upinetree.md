@@ -21,18 +21,6 @@ Git, Github   | 4 (蕾)
 
 過去の宿題は[こちら](https://gist.github.com/upinetree/c584c55571b209669867)
 
-### お世話になっている技術系サイト
-* http://api.rubyonrails.org/
-  * とりあえず最初に見るようにしている
-* http://stackoverflow.com/
-  * 安心と信頼のstack overflow先輩
-
-### 22.5回（もくもく会）でやること
-
-* おやすみした分追いつく
-* Rackについて調べる
-* AngularJSとか
-
 ## 趣味
 * ギター
 * 音楽
