@@ -24,6 +24,10 @@
 ## Ruby On Railsとわたし（ステータス2：ふたば）
 * RubyもRailsもまったく触ったことがなく、よちよち.rbでいちから勉強中。
 
+## 一番お世話になっている技術系サイト・ブログ
+* 最近お仕事でWordPressとFuelPHPとGoogleAnalyticsに悩まされ、色々調べてたんですが、  
+[WordPress Codex 日本語版](http://wpdocs.sourceforge.jp/Main_Page) を一番見てた気がします。。。
+
 ## Gitで思い入れのあるコマンド
 * git checkout <branch>
  * 過去に使ったことのあるCVSとはcheckoutコマンドの意味が違ったことに驚きでした！
