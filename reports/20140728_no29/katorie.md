@@ -36,7 +36,7 @@ Railsでつくっている[RSSリーダー](https://github.com/katorie/rss_reade
 ***
 
 ##2年後のわたし
-Rails年ジニアとしてお仕事している
+Railsエンジニアとしてお仕事している
 
 ***
 
