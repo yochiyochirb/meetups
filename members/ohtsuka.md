@@ -16,6 +16,12 @@
 
 * 3:ほんば
 
+## 2年後の自分はどうなっていたいか
+
+* 仕事の幅を広げる（インフラとか？）
+* 通勤が辛いので引っ越す
+* [ゴールデンドアラ](https://www.google.co.jp/search?client=ubuntu&channel=fs&q=go-rudenndoala&ie=utf-8&oe=utf-8&hl=ja&gws_rd=ssl#channel=fs&hl=ja&q=%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%87%E3%83%B3%E3%83%89%E3%82%A2%E3%83%A9)になる
+
 ## 2014年の目標と進捗
 
 |目標                                            |４月|５月|６月|７月|８月|９月|
