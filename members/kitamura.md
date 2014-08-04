@@ -59,14 +59,15 @@ __git checkout__
 * [bootswatchのcyborg](http://bootswatch.com/cyborg/)をgemを使ってrailsに導入してみたい
 
 ## 2014年の目標と「進捗どうですか」
-__Railsを使ったiPhoneアプリを１個リリースする(進捗：20%)__  
+__Railsを使ったiPhoneアプリを１個リリースする(進捗：60%)__  
 __TOEIC700点とる(進捗：25%)__  
 __PhotoshopやIllustratorの使い方を覚える(進捗：40%)__  
 
-* ２月：Objective-Cの技術書を１冊読了する。Illustratorの参考書を読み始める。  
-* ３月：新規サービスのAPI開発をすることになったのですかさずRailsで実装を始める。   
-   *  英語の勉強がおろそかになる。  
-   *  AndroidアプリのサーバサイドをRailsで開発してみた。(現在トライアル中)  
+* 最近のきたむら
+   *  iOSの実装がもうすぐ終わる。RAILSなしで作りきれそう。けどティザーサイトを無理やりRAILSで実装しようと企んでいる。  
+   *  TOEICを先週うけた。結果がきたら進捗をupdateしたい。  
+   *  あまりにもスピーキングができないのでNOVAに手を染める  
+   *  30歳になったので禁煙生活を始めるも、飲み会で速攻吸う。けどそれ以外では吸っていない。  
 
 ## その他
 twitter -> https://twitter.com/altarf8  
