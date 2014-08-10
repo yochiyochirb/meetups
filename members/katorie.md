@@ -32,6 +32,11 @@ Rails Girls Tokyo, more!でRSSリーダーを作成 =>p4dというもくもく�
 Railsでつくっている[RSSリーダー](https://github.com/katorie/rss_reader)に、はじめてプルリクエストをもらいました！  
 怖い話が読めるサイト[怖話](http://kowabana.jp/)に、はじめてプルリクエストがマージされました！←NEW!
 
+***
+
+##もくもく会でやりたいこと
+- Kajaeru
+- RSSリーダー
 
 ***
 
