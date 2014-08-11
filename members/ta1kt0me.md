@@ -63,8 +63,7 @@
 
 # もくもく会
 
-* mixi-incの[Rackの基礎](http://mixi-inc.github.io/RubyTraining/slides/#/9)をやる
-* もしくはその他なんか
+* kajaeru関連
 
 # 目標と進捗(2014)
 
