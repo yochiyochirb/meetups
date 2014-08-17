@@ -34,9 +34,10 @@ Railsでつくっている[RSSリーダー](https://github.com/katorie/rss_reade
 
 ***
 
-##もくもく会でやりたいこと
-- Kajaeru
-- RSSリーダー
+## GitHubアカウントと由来
+- katorie
+- 本名が「加藤理絵」だから
+- 「かとう」を「katoh」とするのはなんだかアレな気がして。
 
 ***
 
