@@ -32,12 +32,6 @@ Rails Girls Tokyo, more!でRSSリーダーを作成 =>p4dというもくもく�
 Railsでつくっている[RSSリーダー](https://github.com/katorie/rss_reader)に、はじめてプルリクエストをもらいました！  
 怖い話が読めるサイト[怖話](http://kowabana.jp/)に、はじめてプルリクエストがマージされました！←NEW!
 
-***
-
-## GitHubアカウントと由来
-- katorie
-- 本名が「加藤理絵」だから
-- 「かとう」を「katoh」とするのはなんだかアレな気がして。
 
 ***
 

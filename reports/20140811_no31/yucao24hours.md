@@ -25,14 +25,10 @@
 
 仕事でもバージョン管理等にGithubを使用しています。
 
-## アカウントの由来
-もう かれこれ7年以上ずっと大好きなバンド、 UNCHAIN の[谷川正憲氏](https://twitter.com/masuo24hours)のアカウントが `masuo24hours` だからです！！！！！
+## もくもくしたいこと
+かじゃります。
 
-（彼のニックネームも「ますを」なのでちょうどぴったり :blossom:）
-
-Twitter も Github もコレにしてます。
-
-当分彼らをキライになることはなさそうだし、アカウントとしても気に入っているので、ずっとこのままいきたいと思います。
+https://github.com/yochiyochirb/kajaeru
 
 ## 2014 年の目標と進捗
 |            目標           | Jan | Feb | Mar | Apr | May | Jun | Jul | Aug | Sep | Oct | Nov | Dec |
