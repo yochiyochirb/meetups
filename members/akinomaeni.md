@@ -12,11 +12,11 @@ Railsを使ってる会社で働き始めました
 ステータス3 : ほんば  
 今、Rails Tutorial やっています
 
-## Git Github とわたし
+## Git GitHub とわたし
 ステータス3 : ほんば  
 半年Subversionを使う  
 その後Gitに移行  
-Githubは少しだけ非公開Repositoryで3人ぐらいで開発に使う  
+GitHubは少しだけ非公開Repositoryで3人ぐらいで開発に使う  
 よちよちで慣れたおかげで色々なプロジェクトを見る時にIssuesやPull Requestを見るようになりました
 
 最近仕事でGitLabを使っています。微妙な違いが気になるのでGitHubに移行したいです。
