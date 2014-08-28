@@ -34,12 +34,6 @@ Railsでつくっている[RSSリーダー](https://github.com/katorie/rss_reade
 
 ***
 
-## 今住んでいる場所について気に入っていること(2014年後半ver.)
-- 清澄白河なんですけど
-- コーヒーの地となりつつある
-- [Allpress Japan](http://jp.allpressespresso.com/ja/) がオープン（2014年8月）
-- [Blue Bottle Coffee](http://www.bluebottlecoffee.com/)がオープン予定（2014年10月）
-- 前からある、[ARISE COFFEE](http://arisecoffee.jp/)や[The Cream of the Crop Coffee](http://www.c-c-coffee.ne.jp/sp/access/)もおいしいです
 
 ***
 
