@@ -26,7 +26,7 @@ __【緊急追加目標】I WANT TO LOSE WEGHT__
 ※年内に間に合うのか！？ 
 
 
- |Sep |Oct |Nov |Dec |
+| Sep | Oct | Nov | Dec |
  |:--:|:--:|:--:|:--:|
  |72kg| |||
 
