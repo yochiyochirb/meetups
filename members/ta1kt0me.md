@@ -31,7 +31,7 @@
 
 # Github
 
-* 双葉
+* 本葉 
   * git、githubはちょっと触っただけ、SVNは仕事で使ったことはある
 
 # Homework
