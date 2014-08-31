@@ -80,6 +80,7 @@ JS           | ○ | △ | ○
   * jbuilderと仲良くなった気がする
 * 8月
   * Railsアプリ軽く使えるようにした
+    * https://github.com/upinetree/zubora
     * スマホ対応も一応しつつ
   * slimerになった
 
