@@ -18,7 +18,7 @@ github-flowなどを学び、社内や自分のサービスに導入できたら
 最近jQueryに頼りっぱなしなので、生のjsについての学習をもう一度したいなと考えています。
 またJSのフレームワークも覚えたいです(とりあえずknockoutを学習中)
 
-- knockoutはあんまり流行らなそうなんで、AngularjsかBackbotnejsを覚えないとなぁと感じています。。
+- knockoutはあんまり流行らなそうなんで、AngularjsかBackbonejsを覚えないとなぁと感じています。。
 - Webアプリの開発でCoffeescriptを使ったので少し覚えました
   - 書きやすいんだけど、クセがつよい印象:fearful:
 

@@ -18,7 +18,7 @@ github-flowなどを学び、社内や自分のサービスに導入できたら
 最近jQueryに頼りっぱなしなので、生のjsについての学習をもう一度したいなと考えています。
 またJSのフレームワークも覚えたいです(とりあえずknockoutを学習中)
 
-- 特に進捗はないです、knockoutはあんまり流行らなそうなんで、Angularjsかbackbotnejsを覚えないとなぁと感じています。。
+- 特に進捗はないです、knockoutはあんまり流行らなそうなんで、AngularjsかBackbonejsを覚えないとなぁと感じています。。
 
 ###CI
 CIツールとしてJenkinsを勉強したいです、JenkinsとGitlabを連携させて自分のWebサービスのデプロイをかっこ良くできたらなーと思っています。
