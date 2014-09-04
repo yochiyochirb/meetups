@@ -45,7 +45,7 @@ Ruby コミュニティに貢献できるエンジニアになりたいので、
 | English       |  o  |  o  |  o  |  x  |  o  |  o  |  x  |  x  |     |     |     |     |
 | Gym training  |   0 |   0 |   0 |   4 |   4 |   1 |   1 |   1 |     |     |     |     |
 | Blog          |   4 |   3 |   0 |   4 |   4 |   7 |   3 |   1 |     |     |     |     |
-|               |     |     |     |     |     |     |     |     |     |     |     |     |
+| Contribution  |     |     |     |     |     |     |     |     |     |     |     |     |
 
 # 過去の宿題
 [こちら](https://gist.github.com/odaillyjp/ae33200fd8ffc9f35d6c)
