@@ -25,6 +25,12 @@
  * RailsGirlsのページを参考に、コピペで動かしてみた
  * http://www.ey-office.com/education_rails.html ← 1日入門コースを受けた
 
+## iPhone6どう思う
+* iPhoneも大型化するのか（小並感
+* 画面きれいそう（小並感
+* 発表前から並んでる人ってすごい
+* Apple Watchの方が気になる
+
 ## 好きなもの
  * お酒
  * 寿司
