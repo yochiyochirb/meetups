@@ -30,6 +30,12 @@
 2. iPhone5s が0円で投げ売り状態!! こっち買おうかな（現在 iPhone4 使用中）
 3. 発表当日にたまたま "iPad air + ガラケーで十分やってけるよ" という人と話す機会があり、iPhone じゃなくて iPad air 買おうかなって思い始めた <- ｲﾏｺｺ
 
+iWatch（発表されたのは AppleWatch でしたが）は実際[こういうの](http://selfscreens.com/archives/6369/apple-preparing-2-5-inch-iwatch-october-release#prettyPhoto)が発表されると思ってたのでかなり残念。。
+
+腕時計って服装のコーディネートにおいてけっこう大きな影響をおよぼすと思うので、健康管理機能とかを活かす＝毎日身に付ける、のであればもう少し服に合わせやすいデザイン && 物理的にスマートな筐体にしてほしかった〜〜。。
+
+おとなしく[Withings pulse](http://www.withings.com/eu/withings-pulse.html)かおうかな。
+
 ## 2014 年の目標と進捗
 |            目標           | Jan | Feb | Mar | Apr | May | Jun | Jul | Aug | Sep | Oct | Nov | Dec |
 |:-------------------------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
