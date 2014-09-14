@@ -21,6 +21,15 @@ Railsでつくっている[RSSリーダー](https://github.com/katorie/rss_reade
 
 ***
 
+## iPhone6について
+- iPhoneを電話として使っているのでiPhone6+はちょっと大きすぎる
+- iPad mini をもっているのでiPhone6+は(ry
+- iPhone5 x au という電波が最弱な組み合わせなので、2年たったらiPhone6に買い換えようかな（来年春ですね）
+
+
+***
+
+
 ## 目標と進捗
 
 ### 2014年7月〜9月の目標と進捗
