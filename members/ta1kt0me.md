@@ -36,13 +36,6 @@
 
 # Homework
 
-* iPhone6 & iPhone6+ どう思う??
-  * iOS Developerの悲鳴が聞こえる
-  * ＋だと片手持ち厳しいかな
-  * どっち買うかは実物見てから決める
-  * ApplePayが早く普及してくれるとクレジットカード持たなくてすむから嬉しい
-  * 発表の裏でiPod classicの終了してしまって寂しい
-
 # もくもく会
 
 * kajaeru関連
