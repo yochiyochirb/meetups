@@ -23,16 +23,15 @@
   * rails使ってアプリを作る
   * iOSアプリも作りたい
 
-# Rails 4
+# よちよちステータス
 
-* 本葉
-  * dotinstallのruby on railsを消化
-  * 2013年12月頃にやったはずなのに全く頭に入ってない...
+| skill         | status |
+|:--------------|:------:|
+| Ruby on Rails |  本葉  |
+| Git, Github   |  本葉  |
 
-# Github
-
-* 本葉
-  * git、githubはちょっと触っただけ、SVNは仕事で使ったことはある
+* kajaeruのおかげでだいぶGithubと仲良くなれてきた
+* もっとチーム開発したい
 
 # Homework
 
