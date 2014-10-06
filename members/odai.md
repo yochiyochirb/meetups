@@ -52,10 +52,10 @@ Ruby コミュニティに貢献できるエンジニアになりたいので、
 # 進捗どうですか
 |               | Jan | Feb | Mar | Apr | May | Jun | Jul | Aug | Sep | Oct | Nov | Dec |
 |:--------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|----:|
-| English       |  o  |  o  |  o  |  x  |  o  |  o  |  x  |  x  |     |     |     |     |
-| Gym training  |   0 |   0 |   0 |   4 |   4 |   1 |   1 |   1 |     |     |     |     |
-| Blog          |   4 |   3 |   0 |   4 |   4 |   7 |   3 |   1 |     |     |     |     |
-| Contribution  |     |     |     |     |     |     |     |     |     |     |     |     |
+| English       |  o  |  o  |  o  |  x  |  o  |  o  |  x  |  x  |  x  |     |     |     |
+| Gym training  |   0 |   0 |   0 |   4 |   4 |   1 |   1 |   1 |   4 |     |     |     |
+| Blog          |   4 |   3 |   0 |   4 |   4 |   7 |   3 |   1 |   0 |     |     |     |
+| Community     |     |     |     |     |     |     |     |     |  o  |     |     |     |
 
 # 過去の宿題
 [こちら](https://gist.github.com/odaillyjp/ae33200fd8ffc9f35d6c)
