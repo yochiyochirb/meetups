@@ -23,9 +23,6 @@ Railsでつくっている[RSSリーダー](https://github.com/katorie/rss_reade
 ***
 
 
-## Ruby 以外でやってみたい(まだやったことない)言語
-- JavaScript（やっぱりやらないと）
-- Haskell（オブジェクト指向言語に対して、関数型言語をやると理解が深まるよというアドバイスをもらったので）
 
 
 ***
