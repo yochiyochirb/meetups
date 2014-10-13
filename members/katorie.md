@@ -55,5 +55,3 @@ Railsでつくっている[RSSリーダー](https://github.com/katorie/rss_reade
 |Webサイトつくる|☓|△|△|
 |健康に気をつける|○|○|○|
 |ハーフマラソン完走|☓|☓|☓|
-
-
