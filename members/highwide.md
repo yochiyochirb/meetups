@@ -37,7 +37,7 @@ http://kajaeru.herokuapp.com
 |  6月 |酔った勢いでドメイン取得した                  |
 |  7月 |友人らと開発し始めた(Fesの予習サイト)         |
 |  8月 |Fesdy 1st Release!! / Contributing to Kajaeru?|
-|  9月 ||
+|  9月 |ちょっとサボりがちだった                      |
 | 10月 ||
 | 11月 ||
 | 12月 ||
