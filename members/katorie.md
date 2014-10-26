@@ -22,9 +22,6 @@ Railsでつくっている[RSSリーダー](https://github.com/katorie/rss_reade
 
 ***
 
-## もくもく会でやろうと思っていること
-- よちよちRSSリーダーの開発
-- Kajaeruもできるところがあれば
 
 ***
 
