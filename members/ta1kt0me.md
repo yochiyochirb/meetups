@@ -33,6 +33,12 @@
 
 # Homework
 
+## [42]とにかくデザインが素敵！と思う Web サービスひとつ
+
+[wikiwand](http://www.wikiwand.com/)
+
+おかげでwikipediaが見やすくなりました。
+
 # もくもく会
 
 * kajaeru関連
