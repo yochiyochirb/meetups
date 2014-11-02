@@ -46,4 +46,4 @@ JavaScript をがんばったので素養はちょっとついた気がする!!
 ※… 前月末と当月末の比較。さすがに実値ははずかしかった :flushed: ←本気度とは
 
 
-[しゅくだいアーカイブス](https://gist.github.com/yucato/9353b1a818a1c94d71ff)
+[しゅくだいアーカイブス](https://gist.github.com/yucao24hours/9353b1a818a1c94d71ff)
