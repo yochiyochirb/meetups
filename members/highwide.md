@@ -38,7 +38,7 @@ http://kajaeru.herokuapp.com
 |  7月 |友人らと開発し始めた(Fesの予習サイト)         |
 |  8月 |Fesdy 1st Release!! / Contributing to Kajaeru?|
 |  9月 |ちょっとサボりがちだった                      |
-| 10月 ||
+| 10月 |サボりがちだったけど、Sinatraで占い作り始めた |
 | 11月 ||
 | 12月 ||
 
