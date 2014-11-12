@@ -45,7 +45,7 @@ http://kajaeru.herokuapp.com
 ## meetupのシュクダイシリーズ
 <!--上に行くほど新しいもの-->
 ### コーディング・開発になくてはならない便利ツールひとつ (45th 2014/11/17)
-* zenhub (https://www.zenhub.io/)
+zenhub (https://www.zenhub.io/)  
 何度かよちよちでもお話したことがあるChromeのアドオンで、GitHubのIssueにカンバン機能(Trelloみたいなの)を提供する。  
 見るサイトがGitHubだけで完結するのでとてもお気に入り。(Trelloも素敵なんですけどね)   
 チームで使うブラウザをChromeに統一しなくちゃいけないけど、今はFirefoxのアドオンも作っているらしい。
