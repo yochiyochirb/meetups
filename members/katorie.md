@@ -22,8 +22,6 @@ Railsでつくっている[RSSリーダー](https://github.com/katorie/rss_reade
 
 ***
 
-## とにかくデザインが素敵！と思うサービスひとつ
-[Wunderlist](https://www.wunderlist.com/)
 
 ***
 
