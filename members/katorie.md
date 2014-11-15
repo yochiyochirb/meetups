@@ -13,6 +13,7 @@
 ## Ruby On Railsと私(ステータス３：ほんば)
 実務経験がないので、「かぎりなくふたばに近いほんば」  
 Railsチュートリアルをやったり、RSSリーダーをつくったり、Kajaeruに参加したりしてだいぶ理解はすすみましたが、まだまだ道のりはながい  
+RSSリーダーを[「yochiyochi yomyom」](http://yochiyochi-yomyom.herokuapp.com/)としてHerokuにデプロイしました！  
 
 
 ## GitHubと私(ステータス３：ほんば)
