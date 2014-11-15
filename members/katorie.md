@@ -22,6 +22,9 @@ Railsでつくっている[RSSリーダー](https://github.com/katorie/rss_reade
 
 ***
 
+## コーディング・開発になくてはならない便利ツールひとつ
+- 最近のお気に入りは `tig` です。（といってもまだ使いこなしてはいませんが。。）
+http://qiita.com/suino/items/b0dae7e00bd7165f79ea
 
 ***
 
