@@ -24,7 +24,7 @@
 仕事でもバージョン管理等にGithubを使用しています。
 
 ## 開発になくてはならないツール・プラグイン
-tig です。これ知ってから `git log` めったに打たなくなりました。
+[tig](https://github.com/jonas/tig) です。これ知ってから `git log` めったに打たなくなりました。
 
 ## 2014 年の目標と進捗
 |            目標           | Jan | Feb | Mar | Apr | May | Jun | Jul | Aug | Sep | Oct | Nov | Dec |
