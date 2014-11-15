@@ -33,11 +33,11 @@
 
 # Homework
 
-## [42]とにかくデザインが素敵！と思う Web サービスひとつ
+## [45]コーディング・開発になくてはならない便利ツールひとつ
 
-[wikiwand](http://www.wikiwand.com/)
+[ghq](https://github.com/motemen/ghq)
 
-おかげでwikipediaが見やすくなりました。
+pecoと一緒に導入したら使いやすさ抜群で、ふとした時に捗っています。
 
 # もくもく会
 
