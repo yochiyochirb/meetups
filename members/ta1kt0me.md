@@ -66,8 +66,8 @@ pecoと一緒に導入したら使いやすさ抜群で、ふとした時に捗�
 
 ## その他
 
-職探し中
-[metanight](http://e-g-d.doorkeeper.jp/events/17057)という読書会始めました
+* 職探し中
+* [metanight](http://e-g-d.doorkeeper.jp/events/17057)という読書会始めました
 
 # 過去宿題一覧
 
