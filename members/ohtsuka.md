@@ -16,6 +16,11 @@
 
 * 3:ほんば
 
+## コーディング・開発になくてはならない便利ツールひとつ
+* [俺の.vimrc](https://github.com/to0526/Manage-dot-files/blob/master/.vimrc)より
+ * 皆様バリバリrspecを書かれていることと思いますが（ブーメラン）、vim上からrspecを流せるツールが便利なので紹介させていただきます
+ * → http://qiita.com/take/items/7bb67276c785e223069a
+
 ## 2014年の目標と進捗（9, 10月編）
 
 |目標                                  |８月|９月|10月|
