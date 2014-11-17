@@ -47,7 +47,7 @@ git status : あれ？何やってたっけ？ってよくなる
 * お酒に弱くて銘柄とか全くわからないけどワイン好き
 
 ##コーディング・開発になくてはならない便利ツール
-[Illustrtor](http://www.adobe.com/jp/products/illustrator.html)  
+[Illustrator](http://www.adobe.com/jp/products/illustrator.html)  
 開発じゃない感じだけど、デザインでは欠かせない。  
 最近違うツールに変わってきているけれど、それでもAdobeは優秀なツールと思います。  
 もうちょっと安ければ。
