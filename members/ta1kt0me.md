@@ -32,15 +32,13 @@
 
 # Homework
 
-## [45]コーディング・開発になくてはならない便利ツールひとつ
+## [46]使っているor気になるブログサービスとその理由
 
-[ghq](https://github.com/motemen/ghq)
-
-pecoと一緒に導入したら使いやすさ抜群で、ふとした時に捗っています。
+[jekyll](http://jekyllrb.com/) on [Heroku](https://www.heroku.com/).  
+git、ruby、herokuの使い方の勉強がてらこの構成でブログを始めました。
 
 # もくもく会
 
-* kajaeru関連
 * 作ってるアプリのテスト書く
 
 # 目標と進捗(2014)
