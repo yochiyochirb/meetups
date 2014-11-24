@@ -13,9 +13,3 @@
 ステータス2: ふたば(双葉)
 
 #その他
-## コーディング・開発になくてはならない便利ツールひとつ
-SourceTree
-https://www.atlassian.com/ja/software/sourcetree/overview
-
-Sequel Pro
-http://www.sequelpro.com/
