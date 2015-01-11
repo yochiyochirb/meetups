@@ -19,8 +19,8 @@
 ## 近況報告
 あけましておめでとうございます
 
-- [この記事](http://blog.father.gedow.net/2014/07/23/engineers-output/)を読んでからアウトプットに慣れようと思い、ブログを積極的に書いている [http://yocao24hours.me](http://yucao24hours.me)
-- katorie さんと皇居10kmマラソンにでた。6'04"/km の自己新だせたけど、かなりきつかったです :runner::sweat_drop:
+- [この記事](http://blog.father.gedow.net/2014/07/23/engineers-output/)を読んでからアウトプットに慣れようと思い、ブログを積極的に書いている [http://yucao24hours.me](http://yucao24hours.me)
+- katorie さんと皇居10kmマラソンにでた。6'04"/km の自己新だせたけど、かなりきつかったです :runner::sweat_drops:
 
 ## 2015 年の目標と進捗
 stay tuned!
