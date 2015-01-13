@@ -37,6 +37,7 @@
 * I feel my English has improved.
 * I'll take ruby silver exam by the end of this month.
 * I played `Are You a Werewolf？`
+* I have started to use [ChangeLog memo](http://0xcc.net/unimag/1/)
 * Recently recommended music
   - [音街巡旅I - 空気公団](http://www.amazon.co.jp/%E9%9F%B3%E8%A1%97%E5%B7%A1%E6%97%85I-%E7%A9%BA%E6%B0%97%E5%85%AC%E5%9B%A3/dp/B00JALLWDO/ref=pd_sim_m_4?ie=UTF8&refRID=0MZ1GFR8489NQ3HX6668)
   - [Salad Days - Mac Demarco](http://www.amazon.co.jp/Salad-Days-Mac-Demarco/dp/B00HY68WFS/ref=pd_sim_m_1?ie=UTF8&refRID=1B3NJD2ENPTWXAHQ0R6Z)
