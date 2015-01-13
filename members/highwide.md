@@ -39,8 +39,8 @@ http://kajaeru.herokuapp.com
 |  8月 |Fesdy 1st Release!! / Contributing to Kajaeru?|
 |  9月 |ちょっとサボりがちだった                      |
 | 10月 |サボりがちだったけど、Sinatraで占い作り始めた |
-| 11月 |進捗ダメです :innocent: Hubotに時間取られた  |
-| 12月 ||
+| 11月 |進捗ダメです :innocent: Hubotに時間取られた   |
+| 12月 |yomeeru作りましたねー！                       |
 
 ## meetupのシュクダイシリーズ
 <!--上に行くほど新しいもの-->
