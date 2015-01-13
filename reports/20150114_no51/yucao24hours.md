@@ -1,4 +1,4 @@
-# @yucao24hours とは
+# @yucao24hours
 ## 好きなもの☃
 * **Perfume** 特に **のっち**
 * 音楽(UNCHAINらへん。最近は the chef cooks me か ネットラジオの ABC-Lounge という Jazz 系のチャンネルをよく聴く)
