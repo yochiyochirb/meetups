@@ -24,7 +24,7 @@
 # よちよちステータス
 
 | skill           | status   |
-| :-------------- | :------: |
+| :-------------- | :------- |
 | Ruby on Rails   | 本葉     |
 | Git, Github     | 本葉     |
 
@@ -44,10 +44,10 @@
 
 # 目標と進捗(2014)
 
-| 目標                        | 3     | 4     | 5     | 6     | 7     | 8     | 9     | 10   |
-| :-------------------------- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | ---: |
-| blogを週1で更新             | -     | -     | -     | X     | X     | X     | 15    | 10   |
-| railsアプリ作る             | -     | -     | -     | X     | X     | O     | O     | O    |
+| 目標            | 3   | 4   | 5   | 6   | 7   | 8   | 9    | 10   | 11   | 12   |
+| :-----------    | :-- | :-- | :-- | :-- | :-- | :-- | :--- | :--- | :--- | :--- |
+| blogを週1で更新 | -   | -   | -   | X   | X   | X   | 15   | 10   | 8    | 7    |
+| railsアプリ作る | -   | -   | -   | X   | X   | O   | O    | O    | O    | O    |
 
 * タスク管理アプリ(Web)作ってみた
 * JSフレームワークはちょっと後回し
@@ -55,12 +55,12 @@
 
 ## 本
 
-| title                       | status        |
-| :-------------------------- | :-----------: |
-| なるほどUnixプロセス        | done          |
-| パーフェクトRuby on Rails   | done          |
-| meta programming ruby 1     | in progress   |
-| understanding computing     | in progress   |
+| title                     | status        |
+| :------------------------ | :------------ |
+| なるほどUnixプロセス      | done          |
+| パーフェクトRuby on Rails | done          |
+| meta programming ruby 1   | in progress   |
+| understanding computing   | in progress   |
 
 
 ## その他
