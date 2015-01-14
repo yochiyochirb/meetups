@@ -1,9 +1,8 @@
 # メンバー
 以下はダミーです。当日のグループメンバーを書いておいてください。
-- yucao24hours
-- nocchi
-- _why the lucky stiff
-- matz
+- hashcc
+- ka2ki
+- highwide
 
 # 運営・開催について
 ## 曜日、時間
