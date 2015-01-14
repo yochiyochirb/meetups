@@ -1,7 +1,7 @@
 # 自己紹介
 
 ## 名前
- * @pupupopo_
+ * @pupupopo88
  * ぷぷぽぽ・ぷぽ
 
 ## お仕事
@@ -24,6 +24,10 @@
 ## Ruby On Rails(2:ふたば)
  * RailsGirlsのページを参考に、コピペで動かしてみた
  * http://www.ey-office.com/education_rails.html ← 1日入門コースを受けた
+
+## 近況
+ * アカウント名変更しました
+ * [ブログ始めました](http://pupupopo88.hatenablog.com/)
 
 ## 好きなもの
  * お酒
