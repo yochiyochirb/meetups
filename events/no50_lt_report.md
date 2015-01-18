@@ -85,6 +85,8 @@ BPGはファイルサイズや画像の品質がJPEGより良いらしいです�
 @umekumiさんの今回のLT大会のトップバッターでしたが、素晴らしい内容のLTに参加者は驚かされました。
 2015年の@umekumiさんの活躍が楽しみですね。
 
+[関連ブログ](http://umekumi.hatenablog.com/entry/20141222/1419213551)
+
 ---
 
 #### [よちよちと歩んだ2014年](http://www.slideshare.net/pupupopo88/walked-with-yochiyochirb) / @pupupopo88
