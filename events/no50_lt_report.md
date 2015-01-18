@@ -216,7 +216,7 @@ BPGはファイルサイズや画像の品質がJPEGより良いらしいです�
 * 2012年
  * Rubyをさわり始めました。この年は一人で色々Rubyをいじっており、写経したり、Twitter botを作ったり、仕事を楽にするスクリプトを書いてみたりしていました。
 * 2013年
- * RailsGirlsTokyo 2nd で勉強会デビューをしました。他にも、RubyKaigi 2013/、RailsGirlsTokyo, more!などの勉強会への参加や「パーフェクトRuby」を読んだり、Railsの本を写経してみたりという活動も継続して行っていました。
+ * RailsGirlsTokyo 2nd で勉強会デビューをしました。他にも、RubyKaigi 2013、RailsGirlsTokyo, more!などの勉強会への参加や「パーフェクトRuby」を読んだり、Railsの本を写経してみたりという活動も継続して行っていました。
 
 **2013/11 よちよち.rb 始動！**
 
