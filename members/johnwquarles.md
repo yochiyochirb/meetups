@@ -12,7 +12,7 @@
 
 ## Rails 4.0
 * ステータス2: ふたば（双葉）
-* http://www.theodinproject.com/web-development-101/ruby-on-rails　と　Rails Tutorial ch. 1-2　をしてきた
+* [The Odin Project's Webdev 101 Rails section](http://www.theodinproject.com/web-development-101/ruby-on-rails) とRails Tutorial ch. 1-2　をしてきた
 
 ## Github
 * ステータス2: ふたば(双葉)
