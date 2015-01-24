@@ -228,7 +228,36 @@ LTのまとめとして、highwideさんは「モチベーションが高い�
 
 #### 俺とgemの成長記録 / マツ（[@upinetree](https://twitter.com/upinetree)）
 
-鋭意執筆中
+実力派ライトニングトーカーの @upinetree さんは、自作された gem について話されました。
+
+**nicorepo**
+
+どのような gem かというと、ニコニコ動画のニコレポにフィルタリングをかけて、
+自分が必要な情報だけを抜き出して、ターミナルで表示するというものです。
+
+詳しくは [Github](https://github.com/upinetree/nicorepo) で！
+
+**fluent-plugin-nicorepo**
+
+niorepo を便利に使っていたのですが、
+ある日「あれ？この動作（ターミナルに nicorepo と打ちこんで、エンターを押す）
+面倒くさくね？チャットに勝手に流れたほうが便利じゃね？」と考え、
+新たに fluent-plugin-nicorepo という gem を作成しました。
+
+詳しくは [Github](https://github.com/upinetree/fluent-plugin-nicorepo) で！！
+（※設定とかは[ブログ](http://upinetree.hatenablog.com/entries/2014/06/12)で！）
+
+**まとめ**
+
+自分で使い続けていくことにより、本当に欲しかったものが分かりました。
+
+また、自分の技術が実現したいことに追いつきました。
+gem作成を通してRubyがだいぶ書けるようになりました。
+
+得られた知見として、ニッチな問題は自分で解決するだけではもったいない、
+gem にすることにより自分以外の人にも需要があるものだということが分かりました。
+
+そしてStarをください！！！
 
 ---
 
