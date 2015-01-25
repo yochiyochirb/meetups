@@ -22,8 +22,6 @@ Railsでつくっている[RSSリーダー](https://github.com/katorie/rss_reade
 
 ***
 
-## 近況報告
-[がんばります。](https://ubiregi.com/ja/about)
 
 ***
 
