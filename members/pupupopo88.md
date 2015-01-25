@@ -35,7 +35,7 @@
  * 蟹
 
 ## 2015年の目標
- * 活動的なことする
+ * 提供側の活動をする（参考：[I AM "Ruby Ecosystem"!](https://speakerdeck.com/bash0c7/i-am-ruby-ecosystem) by bash0c7）
     * イベントやったり
     * ブログ書いたり
     * コミュニティの運営的な事やったり etc...
