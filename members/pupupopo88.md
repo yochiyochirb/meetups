@@ -25,6 +25,10 @@
  * RailsGirlsのページを参考に、コピペで動かしてみた
  * http://www.ey-office.com/education_rails.html ← 1日入門コースを受けた
 
+## 自分流・寒い日(ならでは)の過ごし方
+ * ひたすら毛布にくるまる（そして寝落ち）
+ * モコモコの靴下を履く
+
 ## 近況
  * アカウント名変更しました
  * [ブログ始めました](http://pupupopo88.hatenablog.com/)
@@ -35,12 +39,12 @@
  * 蟹
 
 ## 2015年の目標
- * 提供側の活動をする（参考：[I AM "Ruby Ecosystem"!](https://speakerdeck.com/bash0c7/i-am-ruby-ecosystem) by bash0c7）
+ * 提供側の活動をする（参考：[I AM "Ruby Ecosystem"!](https://speakerdeck.com/bash0c7/i-am-ruby-ecosystem) by bash0c7さん）
     * イベントやったり
     * ブログ書いたり
     * コミュニティの運営的な事やったり etc...
  * コード書く
- * Silverとる
+ * RubySilverとる
 
 ## 進捗どうですか?
 
