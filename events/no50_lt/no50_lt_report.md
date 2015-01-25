@@ -287,7 +287,7 @@ highwideさんは2014年、_motivation_ と戦っていました..
 
 ---
 
-#### わたしはいかにしてRailsエンジニアになったか 〜転職活動編〜 / yuki3738（[@yuki3738](https://twitter.com/yuki3738)）
+#### [わたしはいかにしてRailsエンジニアになったか 〜転職活動編〜](https://speakerdeck.com/yuki3738/how-i-became-a-rails-engineer) / yuki3738（[@yuki3738](https://twitter.com/yuki3738)）
 
 yuki3738 さんは一年半に渡るご自身の転職活動顛末記を話されました。
 
