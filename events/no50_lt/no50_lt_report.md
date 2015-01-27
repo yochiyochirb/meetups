@@ -287,7 +287,7 @@ highwideさんは2014年、_motivation_ と戦っていました..
 
 nicorepo とはどのような gem かというと、ニコニコ動画のニコレポ（twitter のTLのようなもの）にフィルタリングをかけて、自分が欲しい情報だけをターミナルで表示するというものです。
 
-niorepo を便利に使っていたようなのですが、ある日「nicorepoを使う動作（ターミナルを開いて nicorepo と打ちこんで、エンターを押す）面倒くさくない？チャット（Idobata）に勝手に流れたら便利っぽい」と考えて、新たに [fluent-plugin-nicorepo](https://github.com/upinetree/fluent-plugin-nicorepo) という gem を作成されました。
+nicorepo を便利に使っていたようなのですが、ある日「nicorepoを使う動作（ターミナルを開いて nicorepo と打ちこんで、エンターを押す）面倒くさくない？チャット（Idobata）に勝手に流れたら便利っぽい」と考えて、新たに [fluent-plugin-nicorepo](https://github.com/upinetree/fluent-plugin-nicorepo) という gem を作成されました。
 
 このように自分で使い続けていくことにより、自分が本当に欲しかったものが分かり、また gem 作成を通じて自分の技術が実現したいことに追いついてきたということを実感されたようです。
 
