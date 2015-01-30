@@ -38,6 +38,11 @@
 ### 2015年1月〜3月の目標と進捗
 | 目標 | 1月 | 2月 | 3月 |
 | ---- |:---:|:---:|:---:|
-|仕事のリズムをつかむ||||
-|yochiyochi-yomyomのissue駆動開発||||
-|10キロラン2回/月||||
+|仕事のリズムをつかむ|◯|||
+|yochiyochi-yomyomのissue駆動開発|◯|||
+|10キロラン2回/月|◯|||
+- 1月
+  - フレックスなので、まずは出社リズムを整えてみた。
+  - 毎週EffectiveRuby読書会をしている。
+  - [yochiyochi-yomyom](http://yochiyochi-yomyom.herokuapp.com/)をアップデートした。（左カラムをauthor順で並べるのと、RSSのURLじゃなくて、Last Updatedを表示するようにした）
+  - ゆかおさんと大会に出た :tada:
