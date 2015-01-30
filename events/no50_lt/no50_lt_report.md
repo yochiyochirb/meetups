@@ -50,7 +50,7 @@ LTのテーマは**「2014年のふりかえり」**でした。
 ここで、数名の発表を抜粋して簡単に紹介させていただきたいと思います。  
 私の独断で、[よちよち.rb Advent Calendar 2014](http://www.adventar.org/calendars/582) で おだいさん（[@odailly\_jp](https://twitter.com/odailly_jp)）に書いていただいたブログ [Yochiyochi Committers Who's Who in 2014](http://shindolog.hatenablog.com/entry/2014/12/02/235913) で紹介していただいた面々を中心に発表を紹介させていただきたいと思います。（紹介できなかった皆様すみませんm(\_ \_)m）
 
-（ umekumiさんのレポートはおだいさんに書いていただきました。ありがとうございました！）
+（ umekumiさん、highwideさん、大塚のレポートはおだいさんに書いていただきました。ありがとうございました！）
 
 ---
 
