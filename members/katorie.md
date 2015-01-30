@@ -10,14 +10,11 @@
 
 
 ## Ruby On Railsと私(ステータス３：ほんば)
-実務経験がないので、「かぎりなくふたばに近いほんば」  
-Railsチュートリアルをやったり、RSSリーダーをつくったり、Kajaeruに参加したりしてだいぶ理解はすすみましたが、まだまだ道のりはながい  
-RSSリーダーを[「yochiyochi yomyom」](http://yochiyochi-yomyom.herokuapp.com/)としてHerokuにデプロイしました！  
+実務経験を積んでほんばらしくなってきた :seeding:
 
 
 ## GitHubと私(ステータス３：ほんば)
-Railsでつくっている[RSSリーダー](https://github.com/katorie/rss_reader)に、プルリクエストをもらったりして、活用しています。  
-怖い話が読めるサイト[怖話](http://kowabana.jp/)に、はじめてプルリクエストがマージされました！  
+実務経験を積んでほんばらしくなってきた :seeding:
 
 
 ***
