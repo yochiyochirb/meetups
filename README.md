@@ -68,6 +68,11 @@
 
 [よちよち.rb（初心者限定 Ruby On Rails 4 とか勉強会） | Doorkeeper](http://yochiyochirb.doorkeeper.jp/)
 
+# 通知がうっとうしい！Organization を抜けたい！という方へ
+[こちら](https://github.com/settings/notifications)で Notification を制御することができますが、Organization を抜けることもできます。
+
+[wiki](https://github.com/yochiyochirb/meetups/wiki/to-leave-yochiyochirb-organization) をご覧ください。
+
 # とても大切なお願い(特に経験者の方へ)
 上記のような特性上、既に勉強会に抵抗なく参加できる状態の方・技術的にある程度以上経験のある方のご応募はご遠慮いただければ幸いです。
 
