@@ -68,7 +68,7 @@
 
 [よちよち.rb（初心者限定 Ruby On Rails 4 とか勉強会） | Doorkeeper](http://yochiyochirb.doorkeeper.jp/)
 
-# 通知がうっとうしい！Organization を抜けたい！という方へ
+# 通知がうっとうしいという方へ
 [こちら](https://github.com/settings/notifications)で Notification を制御することができますが、Organization を抜けることもできます。
 
 [wiki](https://github.com/yochiyochirb/meetups/wiki/to-leave-yochiyochirb-organization) をご覧ください。
