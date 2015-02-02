@@ -12,15 +12,7 @@
 なんかいいとこ行けたらいいなぁ～
 
 # 宿題 
-## 自分流・寒い日(ならでは)の過ごし方
-- 温泉に入る
-- ウィンタースポーツ  
-ボードとスキー両方やります  
-滑るのは主に白馬に行きます～  
-　ボードだったら[五竜](http://www.hakubagoryu.com/)と[Hakuba47  ](http://www.hakuba47.co.jp/)  
- 　スキーだったら[八方尾根](http://www.happo-one.jp/)か[栂池](http://www.tsugaike.gr.jp/)など  
-　あと白馬の地酒がヤヴァイ
-  ![雪ん子　白馬錦](http://gigaplus.makeshop.jp/kajikurasake/shopimages/2_000000000322.jpg) 
+
 
 ##Rails 4 と Githubのステータス
 
