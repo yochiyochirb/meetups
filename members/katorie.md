@@ -19,6 +19,8 @@
 
 ***
 
+## もくもく会でやること
+- yochiyochi-yomyomのissue駆動開発
 
 ***
 
