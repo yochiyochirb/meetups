@@ -32,15 +32,15 @@ Ruby コミュニティに貢献できるエンジニアになりたいので、
 わたしのステータスは **4（つぼみ）** です。
 
 # プライベートでつくったもの
-- (shinji)[https://github.com/odaillyjp/shinji]
+- [shinji](https://github.com/odaillyjp/shinji)
 
 旧漢字と新漢字を相互変換するRubyのgem。
 
-- (custom-rails-logger)[https://github.com/odaillyjp/custom_rails_logger]
+- [custom-rails-logger](https://github.com/odaillyjp/custom_rails_logger)
 
 RailsのアクセスログのフォーマットをApacheのLogFormatの構文のように指定できるgem。
 
-- (ことばの探索機)[http://kototan.info/]
+- [ことばの探索機](http://kototan.info/)
 
 『ワードバスケット』という「しりとりゲーム」で使える言葉をゲーム感覚で探せるWebアプリ。
 
