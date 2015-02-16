@@ -11,7 +11,7 @@
   
   keywords:    ["Ruby", "CoffeeScript", "Scala", "人工知能", "データ分析"],
   
-  status:      { rails: "3", git: "4" },
+  status:      { rails: "3", git: "3" },
   
   todays_plan: "趣味で作ったコマンドラインアプリたち(Ruby)をWebアプリにする(Rails/Sinatra)",
   
