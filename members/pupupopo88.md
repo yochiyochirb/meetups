@@ -30,10 +30,6 @@
  * 寿司
  * 蟹
 
-## もうすぐ春ですが
- * 待ってました！早く暖かくなってほしい！
- * お花見したい :beer: :beers: :dango:
-
 ## 2015年の目標
  * 提供側の活動をする（参考：[I AM "Ruby Ecosystem"!](https://speakerdeck.com/bash0c7/i-am-ruby-ecosystem) by bash0c7さん）
     * イベントやったり
