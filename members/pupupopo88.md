@@ -40,16 +40,19 @@
 
 ## 進捗どうですか?
 
-|          目標          | 1 |
-| --------------------- |:---:|
-| 提供側の活動をする | △ |
-| コード書く | ○ |
-| RubySilverとる | × |
+|          目標          | 1 | 2 |
+| --------------------- |:---:|:---:|
+| 提供側の活動をする | △ | ○ |
+| コード書く | ○ | △ |
+| RubySilverとる | × | × |
 
-##### 2015/2/2
+##### 2015/3/2
 * 提供側の活動をする
   * [RESTful勉強会4](http://rubychildren.doorkeeper.jp/events/20247)
+    * [弊社ブログ(前編)](http://blog.val.co.jp/2015/02/restful-4th.html)
+    * [弊社ブログ(後編)](http://blog.val.co.jp/2015/02/restful-4th2.html)
+  * [よちがや.rb参加ブログ](http://pupupopo88.hatenablog.com/entry/2015/02/21/093304)
 * コード書く
-  * [開発合宿](http://pupupopo88.hatenablog.com/entry/2015/01/23/081456)
-  * 合宿の続き
-  * スケジュール自動登録スクリプト
+  * 開発プチ合宿（HTML/CSS）
+* RubySilver
+  * ちょっと多忙なので採用・研修終わってから本気出します...
