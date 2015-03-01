@@ -30,6 +30,7 @@
 今考えているもの
 * 育成済みポケモン＆パーティ管理アプリ（実装中）
  * [プロトタイプ](https://afternoon-escarpment-2166.herokuapp.com/)
+ * account: kitamuu / password: kitamuu
 * Take me out to the ball game（予定）
  * ↑のができてから考えます
 * score book（夢）
