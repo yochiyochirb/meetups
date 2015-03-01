@@ -63,5 +63,24 @@ bootstrapはイケてないから絶対に使わない。
 
 プログラミング以外にまともな趣味がないので><
 
+# 進捗
+
+|                  |Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec|
+| 英語             | - | x |   |   |   |   |   |   |   |   |   |   |
+| コミュニティ活動 | - | x |   |   |   |   |   |   |   |   |   |   |
+| Webデザイン      | - | x |   |   |   |   |   |   |   |   |   |   |
+| 趣味             | - | x |   |   |   |   |   |   |   |   |   |   |
+
+- 英語
+  - 英語版『星の王子さま』を読み終えた
+  - 『英会話でニュース』を読んでないorz
+  - 英語の問題が作れるCUIの[ツール](https://github.com/odaillyjp/eng_cooker)を作った
+- コミュニティ活動
+  - Nothing.
+- Webデザイン
+  - Nothing.
+- 趣味
+  - Nothing.
+
 # 過去の宿題
 [こちら](https://gist.github.com/odaillyjp/ae33200fd8ffc9f35d6c)
