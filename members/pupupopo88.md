@@ -30,6 +30,11 @@
  * 寿司
  * 蟹
 
+## もくもく会でやること
+* ブログのデザイン変更 か
+* 翌日の 社内Lunch Tech の準備
+  * デブサミで一番印象に残ったセッションを共有
+
 ## 2015年の目標
  * 提供側の活動をする（参考：[I AM "Ruby Ecosystem"!](https://speakerdeck.com/bash0c7/i-am-ruby-ecosystem) by bash0c7さん）
     * イベントやったり
