@@ -30,6 +30,12 @@
  * 寿司
  * 蟹
 
+## 近況どうですか
+ * 割と忙しめです（と言いつつ勉強会の時間は確保）
+ * 目の調子が悪くめがねスタイルが多くなった（ラクで良い）
+ * [お寿司食べまくった](http://kagurazakasushi.com/)（寿司は世界を救う）
+ * [RESTful#とは5](https://rubychildren.doorkeeper.jp/events/21783)やるのでぜひ来てください（会場弊社じゃないです）
+
 ## 2015年の目標
  * 提供側の活動をする（参考：[I AM "Ruby Ecosystem"!](https://speakerdeck.com/bash0c7/i-am-ruby-ecosystem) by bash0c7さん）
     * イベントやったり
