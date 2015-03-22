@@ -7,22 +7,6 @@ Ruby コミュニティに貢献できるエンジニアになりたいので、
 
 -> 2/16で退職します。しばらくは自由に活動します。
 
-# よく使う基盤・技術・ツール
-- Ruby
-  - Sinatra
-  - Rails
-  - RSpec
-  - Chef
-- JavaScript
-  - Backbone.js
-- PHP
-- DB
-  - MySQL
-  - Firebase
-- AWS EC2 / S3
-- Git & GitHub
-- Vim
-
 # Ruby on Rails とわたし
 わたしのステータスは **4（つぼみ）** です。
 
