@@ -15,10 +15,10 @@
 
 ## Ruby on Rails
 
-- ステータス4 : 双葉
+- ステータス : 双葉
 - 本とかをみないと基本かけないです
 
 ## Git GitHub
 
-- ステータス4 : 双葉
+- ステータス : 双葉
 - add merge branch checkout log push pull しか知りません
