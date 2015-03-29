@@ -40,10 +40,12 @@
 
 # Homework
 
-## [60] 近況報告
+## 近況報告
 
-railsエンジニアになりました。  
-花粉症が超辛い。
+- インフラに挑戦中
+  * AWSいじってみたり、itamaeでvagrantにデプロイしたり
+- vimをいじってる
+- [metanight](https://e-g-d.doorkeeper.jp/events/22960)やります。
 
 # 目標と進捗(2015)
 
