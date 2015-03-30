@@ -45,7 +45,7 @@
 - インフラに挑戦中
   * AWSいじってみたり、itamaeでvagrantにデプロイしたり
 - vimをいじってる
-- [metanight](https://e-g-d.doorkeeper.jp/events/22960)やります。
+- [metanight](https://manage.doorkeeper.jp/events/22960)やります。
 
 # 目標と進捗(2015)
 
