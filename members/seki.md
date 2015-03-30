@@ -12,15 +12,6 @@
 なんかいいとこ行けたらいいなぁ～
 
 # 宿題 
-## 近況どうですか
-期末ドキュメントヤヴァイ助けて  
-MacのTimemachineをNAS上に構築しました。
-NAS自体は4万ぐらいかな？3TBのRAID1で  
-
-[RedyNAS](https://www.amazon.co.jp/dp/B00CHABQRW?tag=boxy-22&camp=1027&creative=7407&linkCode=as4&creativeASIN=B00CHABQRW&adid=1CAMP0TN2MK2V2N5M8EC&)
-  
-自宅のネットが更新の関係で4月までネットが使えないのが痛い  
-せっかくNASとVPN準備していい感じだったのに。。。orz
 
 
 
