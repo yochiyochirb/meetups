@@ -24,4 +24,4 @@ Git, Github
   
   
 # めざすもの
-I would like to be a person who can solve corporate cliants' business issues with professional skills.  
+I would like to be a person who can solve corporate clients' business issues with professional skills.  
