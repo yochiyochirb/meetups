@@ -30,6 +30,10 @@
  * 寿司
  * 蟹
 
+## もくもく会でやること
+ * [ブログ](http://pupupopo88.hatenablog.com/)のデザイン変更(再び)
+ * 新人研修開発課題のデモアプリ作成
+
 ## 2015年の目標
  * 提供側の活動をする（参考：[I AM "Ruby Ecosystem"!](https://speakerdeck.com/bash0c7/i-am-ruby-ecosystem) by bash0c7さん）
     * イベントやったり
