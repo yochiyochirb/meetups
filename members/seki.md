@@ -12,6 +12,16 @@
 なんかいいとこ行けたらいいなぁ～
 
 # 宿題 
+### 今日のもくもく会でやる予定のこと
+* capistranoを使ってデプロイしてみたい  
+* デプロイ環境の構築  
+* サーバーのセットアップ?  
+こんな感じ？
+
+![masters](https://raw.githubusercontent.com/ManabuSeki/git_tutorial/master/images/capstrano.JPG)
+#↑アプリもできてないのにやってみたいだけ！！！
+
+
 
 ### 2015年の目標 / 進捗どうですか？
 |                                     |Jan.|Feb.|Mar.|Apr.|May|Jun.|Jul.|Aug.|Sep.|Oct.|Nov.|Dec.|
