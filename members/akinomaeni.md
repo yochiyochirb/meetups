@@ -30,5 +30,5 @@
 
 ## もくもく会でやること
 
-Everyday Rails をやります
+Rails3レシピブックとEveryday Railsを読んだり気になってる所を調べたりします
 
