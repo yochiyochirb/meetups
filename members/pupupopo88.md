@@ -30,11 +30,6 @@
  * 寿司
  * 蟹
 
-## もくもく会でやること
- * よちよち不参加だった部分のチュートリアル
- * [パーフェクトRuby on Rails読書会](https://github.com/ValLaboratory/perfect_rails/)の予習
-   * もう2回休んでるので追いつくのつらい
-
 ## 2015年の目標
  * 提供側の活動をする（参考：[I AM "Ruby Ecosystem"!](https://speakerdeck.com/bash0c7/i-am-ruby-ecosystem) by bash0c7さん）
     * イベントやったり
