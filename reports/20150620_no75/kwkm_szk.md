@@ -10,7 +10,7 @@ twitter：@kwkm_szk
 * UIデザイン
 * HTML、CSSコーディング
 * 最近開発からは引き気味
-* 新人教育、Slim化、Sass化が今季のタスク
+* 新人教育、Slim化、Sass化が今期のタスク
 
 ## 各技術のステータス
 ### Rails 4.0
