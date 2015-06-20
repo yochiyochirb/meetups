@@ -20,11 +20,16 @@
 
 主催者もこの対象どおりですので、みなさんと一緒に学び成長していけたらいいなと思いながら開催しています。
 
-# Activities
-* Rails チュートリアルを使用したグループ制勉強会（通常）
-* よちよち.rb 昼間の部
-* [Web を支える技術 読書会](https://github.com/yochiyochirb/meetups/wiki/reading-webtechbook)
-* よちよちもくもく会
+# 主な活動内容
+## 現在やっているもの
+* フリーダム会（通常のミートアップ形式。よちよチストが集まって Ruby に関することを自由にします。）
+* スーパーミートアップ（週末の昼間に長い時間を使って行います。やる内容はその回によって変わります。）
+* [3ステップでしっかり学ぶ JavaScript入門 読書会](https://idobata.io/organizations/yochiyochirb/rooms/3stepsJavaScript/join_request/575344a3-1b61-4ebf-9f6b-613725be0022)
+* [Rails3 レシピブック 読書会](https://idobata.io/organizations/yochiyochirb/rooms/rails3recipebook/join_request/51d11c16-2666-4d91-a054-9eca132a6ad5)
+
+## 過去にやっていたもの
+* 【読了】[Web を支える技術 読書会](https://github.com/yochiyochirb/meetups/wiki/reading-webtechbook)
+* 【現在お休み中】Rails チュートリアルを使用したグループ制勉強会
 
 # ミートアップに参加するには
 ミートアップは毎週月曜日 20:00 から開催しています。
