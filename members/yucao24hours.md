@@ -16,6 +16,8 @@
 ## Git とわたし
 ステータス : **4 (つぼみ :tulip:)**
 
+## 好きなフォント
+YuGothic と YuMincho のスッキリしたかんじががすごく好きだったけど、最近は Ricty が好きです。まるっこいのもいいですな。
 
 ## 2015 年の目標と進捗
 |            目標           | Jan | Feb | Mar | Apr | May | Jun | Jul | Aug | Sep | Oct | Nov | Dec |
