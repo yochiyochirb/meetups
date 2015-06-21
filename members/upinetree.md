@@ -21,6 +21,10 @@ Git, Github   | 5 :cherry_blossom:
 
 過去の宿題は[こちら](https://gist.github.com/upinetree/c584c55571b209669867)
 
+### 好きなフォント
+
+* [やさしさゴシック](http://www.fontna.com/blog/379/)
+
 ## 趣味
 * ギター
 * 音楽
