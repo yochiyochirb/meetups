@@ -8,14 +8,14 @@
 * エンジニア歴2年半くらい
   * 業務アプリ（C, C++）を2年間
   * 2013/11月末にWebエンジニアに転職
-  * Rails勉強中
+  * Railsでお仕事している。最近はPM的なことも
 
 ## よちよちステータス
 
 skills        | status
 --------------|--------
-Ruby on Rails | 4 (蕾)
-Git, Github   | 4 (蕾)
+Ruby on Rails | 5 :cherry_blossom:
+Git, Github   | 5 :cherry_blossom:
 
 ## 宿題
 
