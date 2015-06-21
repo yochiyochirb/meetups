@@ -44,3 +44,10 @@
 - アメージングスパイダーマン2 ★★★★★★★★映像も全てかっこいい
 
 
+## 好きなフォント
+
+- ゴシックMB
+- futura
+- Noto Sans Japanese (日本語webフォント:http://www.google.com/get/noto/#/family/noto-sans-jpan)
+
+
