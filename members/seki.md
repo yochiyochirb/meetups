@@ -14,7 +14,7 @@
 # 宿題 
 ## 最近で一番うれしかったこと
 開発環境をubuntuにしたら快適になった!  
-WIndows糞だ
+Windows糞だ
 
 ### 2015年の目標 / 進捗どうですか？
 |                                     |Jan.|Feb.|Mar.|Apr.|May|Jun.|Jul.|Aug.|Sep.|Oct.|Nov.|Dec.|
