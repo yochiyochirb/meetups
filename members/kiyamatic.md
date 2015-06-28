@@ -49,10 +49,3 @@ http://natusound.co/
 - ヴィオレッタ ★★★内容はさほど面白くないが女の子が異常に可愛すぎる。なんだろう･･･もうこの子のイメージビデオって表現した方が適してると思えるほど http://violetta-movie.com/
 
 
-## 好きなフォント
-
-- ゴシックMB
-- futura
-- Noto Sans Japanese (日本語webフォント:http://www.google.com/get/noto/#/family/noto-sans-jpan)
-
-
