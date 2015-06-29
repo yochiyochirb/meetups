@@ -12,10 +12,9 @@
 なんかいいとこ行けたらいいなぁ～
 
 # 宿題 
-## 好きなフォント
-- Ricty
-- [ラノベPOP](http://www.fontna.com/blog/1706/)
-- [あおぞら明朝フォント](http://blueskis.wktk.so/AozoraMincho/)
+## 最近で一番うれしかったこと
+開発環境をubuntuにしたら快適になった!  
+Windows糞だ
 
 ### 2015年の目標 / 進捗どうですか？
 |                                     |Jan.|Feb.|Mar.|Apr.|May|Jun.|Jul.|Aug.|Sep.|Oct.|Nov.|Dec.|
