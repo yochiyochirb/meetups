@@ -43,13 +43,6 @@
 
 # Homework
 
-## 近況報告
-
-- インフラに挑戦中
-  * AWSいじってみたり、itamaeでvagrantにデプロイしたり
-- vimをいじってる
-- [metanight](https://e-g-d.doorkeeper.jp/events/22960)やります。
-
 # 目標と進捗(2015)
 
 | 目標            | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
