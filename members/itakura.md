@@ -15,6 +15,6 @@ web制作会社でhtml, css, JavaScript担当して2年ほど
 
 
 ##Railsとわたし
--はじめての共同作業（2015.6）
+▼はじめての共同作業（2015.6）
 [mamezo](https://gentle-wave-7441.herokuapp.com/)
 我が家のまめぞうの写真をひたすらアップロードできるサイト。
