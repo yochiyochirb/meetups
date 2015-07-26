@@ -12,9 +12,8 @@
 
 ## お仕事
 
-- 2014/7から [Genestream](http://genestream.co.jp) でソフトウェアエンジニア
-- 2014/10からはAndroidメインでRailsもやります
-- 日程調整サービス [Cu-hacker](https://cu-hacker.com)
+- __new__ 2015/7からフリーランス (今後どうするか検討中)
+- 2014/7から2015/6 [Genestream](http://genestream.co.jp) でRailsとAndroid
 - その前はスタートアップでPHP書いたり、ふらふらフリーランスしてました
 
 ## Ruby on Rails とわたし
