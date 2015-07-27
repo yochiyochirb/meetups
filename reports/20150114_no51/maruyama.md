@@ -19,9 +19,6 @@ Github
 + こちらも業務で使用。
 + 最近やっとgithubの動きを図示できるようになりました。
 
-### 気になっている本
-[こちらの記事を参考に](http://techlife.cookpad.com/entry/2015/03/31/093000)最近本を購入しました
-+ [入門UNIXシェルプログラミングーシェルの基礎から学ぶUNIXの世界](http://www.amazon.co.jp/gp/product/4797321946?ref_=pe_492632_48821362_TE_3p_dp_1)
-+ [レガシーコード改善ガイド](http://www.amazon.co.jp/gp/product/4798116831?ref_=pe_492632_48821362_TE_3p_dp_1)
-+ [コーディングを支える技術](http://www.amazon.co.jp/dp/477415654X/ref=pe_492632_159100282_TE_item)
-+ [JavaScript本格入門](http://www.amazon.co.jp/dp/4774144665/)
+### 近況報告
++ 仕事も遊びもがんばりたい場合にまずやらなければならないこと＝体作り　だと気づきました。
++ 年明けからゆる〜く週末ランニング開始。体が軽いです。
