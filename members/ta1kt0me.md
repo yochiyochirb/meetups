@@ -1,7 +1,11 @@
 # どんなひと
 
 * 名前
-  * トミー(@ta1kt0me) トクトミヒロキ
+  * トミー
+    * GitHub
+      - @ta1kt0me
+    * Twitter
+      - @talkto_me
 * 出身
   * 埼玉北葛飾郡
 * 住んでるとこ
