@@ -31,15 +31,6 @@
 * 寿司
 * 蟹
 
-## 今読んでいる本、もしくは気になっている本
-* [Webを支える技術](http://www.amazon.co.jp/dp/4774142042)
-  * [社内読書会始まりました](https://github.com/ValLaboratory/dokushokai)
-* [コーディングを支える技術](http://www.amazon.co.jp/dp/477415654X)
-  * 社内読書会始まります
-  * Webを支える技術と隔週で水曜16:00から
-* [プロになるためのWeb技術入門](http://www.amazon.co.jp/dp/4774142352)
-  * Webの基礎やりなおしたい
-
 ## 2015年の目標
 * 提供側の活動をする（参考：[I AM "Ruby Ecosystem"!](https://speakerdeck.com/bash0c7/i-am-ruby-ecosystem) by bash0c7さん）
   * イベントやったり
