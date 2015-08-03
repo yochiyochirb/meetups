@@ -55,4 +55,5 @@
 
 
 #### つくってるサイト
+アドバイスしてくれる人、募集中です。
 * [Thanks(仮称）](goo.gl/YiKT1L "Irino's Website")
