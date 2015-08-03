@@ -55,5 +55,8 @@
 
 
 #### つくってるサイト
-アドバイスしてくれる人、募集中です。
 * [Thanks(仮称）](goo.gl/YiKT1L "Irino's Website")
+
+アドバイス/コードレビュー/ペアプロしていただける方、募集中です。
+
+ [連絡先Facebook](https://www.facebook.com/irinoyasu "Irino's Facebook")
