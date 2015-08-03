@@ -52,7 +52,7 @@
 #### 今読んでいる本、もしくは気になっている本（技術書以外でも OK ！）
 
 * [リーダブルコード](http://www.oreilly.co.jp/books/9784873115658/ "OREILLY's Website")
-* 
+
 
 #### つくってるサイト
-* [Thanks(仮称）](https://docs.google.com/document/d/15dRps6ALMVPEOmr9gxLqmxkY4pW2S__f8AuJBypdtXA/edit "Irino's Website")
+* [Thanks(仮称）](goo.gl/YiKT1L "Irino's Website")
