@@ -12,14 +12,6 @@
 
 わたしのステータスは **4（つぼみ）** です。
 
-# 今読んでいる本
-
-- 『[LADDER シリーズ](http://www.ibcpub.co.jp/ladder/)』
-
-「童話や伝記を読んで、英語を学ぼう！」というコンセプトの本。
-
-今は『[美女と野獣](http://www.ibcpub.co.jp/ladder/level1/4896842979.html)』と『[ビートルズ・ストーリー](http://www.ibcpub.co.jp/ladder/level4/9784794600370.html)』を読んでいる。
-
 # 2015年の目標
 
 - 英語
