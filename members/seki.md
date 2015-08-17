@@ -6,6 +6,11 @@
 ## 仕事
 - プログラマ
 
+##Rails 4 と Githubのステータス
+
+- Rails4: **3 (ほんば:four_leaf_clover:)**
+- Github: **3 (ほんば:four_leaf_clover:)**
+
 ## 趣味とか
 - バイクでツーリング  
 いい季節になってまいりました。  
@@ -24,13 +29,6 @@
 |MVCを意識したプログラミングをする    | △  | △  |  ×  |  △  |  △  |  △  |  △  |    |    |    |    |    |
 |RubySilverを目指す                     | ×  | ×  |  ×  |  ×  |  ×  |  ×  |  ×  |    |    |    |    |    |
 |中国語                               | -  | △  |  ×  |  ×  |  ×  |  ×  |  ×  |    |    |    |    |    |
-
-
-
-##Rails 4 と Githubのステータス
-
-- Rails4: **3 (ほんば:four_leaf_clover:)**
-- Github: **3 (ほんば:four_leaf_clover:)**
 
 ##やりたいこと
 
