@@ -55,7 +55,7 @@
 
 
 #### つくってるサイト
-* [Thanks(仮称）](goo.gl/YiKT1L "Irino's Website")
+* [Thanks(仮称）](https://docs.google.com/document/d/15dRps6ALMVPEOmr9gxLqmxkY4pW2S__f8AuJBypdtXA/edit "Irino's Website")
 
 アドバイス/コードレビュー/ペアプロしていただける方、募集中です。
 
