@@ -29,4 +29,4 @@ __ステータスは3(ほんば)です。__
 twitter -> https://twitter.com/altarf8  
 blog -> http://altarf.net  
   
-ビールが超絶好きです！(今月はyochiyochi.beer 12thです！)   
+ビールが超絶好きです！(今度のはyochiyochi.beer は14th tofuro.rb回 です！日にちは9/2@秋葉原)   
