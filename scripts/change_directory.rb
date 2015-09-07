@@ -6,8 +6,7 @@ Dir.entries(Dir.pwd).each do |entry|
   year = entry[0..3]
   month = entry[4..5]
   day = entry[6..7]
-	puts year
-  puts month
-  puts day
+  path = year +"/"+ month +"/"+ day
+puts path
+  #Dir.mkdir(year)
 end
-
