@@ -17,9 +17,9 @@
 
 #### 2015年目標の進捗: 
 
-    * サイト作成:
+    * サイト作成
     
-    * 今週はAWS/Opsworks/chefが動かなくて苦戦中
+    * 普通のクラウドファンディング機能の部分はだいぶできた
 
 #### つくってるサイト
 * [Thanks(仮称）](https://docs.google.com/document/d/15dRps6ALMVPEOmr9gxLqmxkY4pW2S__f8AuJBypdtXA/edit "Irino's Website")

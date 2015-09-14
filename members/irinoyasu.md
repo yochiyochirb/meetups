@@ -1,8 +1,6 @@
 #### 名前：　入野　康隆
 
 #### 職業：　経営コンサルタント
-* [リンジーコンサルティング株式会社](http://www.linzylinzy.com/ "Irino's Website")
-
 
 #### Rails4のステータス：
 
@@ -17,11 +15,11 @@
     * 自分のコードを保管するために使ったことがある。
     * add commit push を使ったことがある。
 
+#### 2015年目標の進捗: 
 
-#### 今読んでいる本、もしくは気になっている本（技術書以外でも OK ！）
-
-* [リーダブルコード](http://www.oreilly.co.jp/books/9784873115658/ "OREILLY's Website")
-
+    * サイト作成
+    
+    * 普通のクラウドファンディング機能の部分はだいぶできた
 
 #### つくってるサイト
 * [Thanks(仮称）](https://docs.google.com/document/d/15dRps6ALMVPEOmr9gxLqmxkY4pW2S__f8AuJBypdtXA/edit "Irino's Website")
