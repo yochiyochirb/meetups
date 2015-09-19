@@ -9,4 +9,8 @@ dirs.each do |dir|
   month = dir[4..5]
   day = dir[6..7]
   FileUtils.mkdir_p("../attendees/#{year}/#{month}/#{day}/")
+
+  # NOTE コピー元ファイルの中にディレクトリ名が入っている
+  p Dir.glob("#{dir}/*")
+
 end
