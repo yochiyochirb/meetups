@@ -14,5 +14,8 @@ dirs.each do |dir|
   # NOTE コピー元ファイルの中にディレクトリ名が入っている
   Dir.chdir(dir)
   p Dir.glob("*")
+  files = Dir.glob("*")
+  #FileUtils.cp(files, dest)
+  Dir.chdir('..')
 
 end
