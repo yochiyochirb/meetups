@@ -1,5 +1,5 @@
 puts Dir.pwd
-Dir.chdir("/Users/yucao24hours/work/yochiyochi/meetups/reports")
+Dir.chdir("./reports")
 puts Dir.pwd
 
 Dir.entries(Dir.pwd).each do |entry|
