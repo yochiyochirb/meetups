@@ -15,3 +15,7 @@
 ## 以下のリンクを参考にした Rails 4 と GitHub に関するあなたのステータス
 Objective-Cならステータス４。Rubyは初心者です。  
 gitはステータス４。仕事でGitLab、SourceTreeを使っています。  
+
+## 今日やること
+８７回のお題のスクリプトを書いてきました。  
+Ruby on Rails チュートリアル。
