@@ -5,15 +5,13 @@ Dir.chdir('reports')
 
 dirs = Dir.glob('*')
 dirs.each do |dir|
-  Dir.chdir('reports')
   year = dir[0..3]
   month = dir[4..5]
   day = dir[6..7]
-  FileUtils.mkdir_p("../attendees/#{year}/#{month}/#{day}/")
+  dest = "../attendees/#{year}/#{month}/#{day}/"
+  FileUtils.mkdir_p(dest)
 
-  # NOTE コピー元ファイルの中にディレクトリ名が入っている
   Dir.chdir(dir)
-  p Dir.glob("*")
   files = Dir.glob("*")
   #FileUtils.cp(files, dest)
   Dir.chdir('..')
