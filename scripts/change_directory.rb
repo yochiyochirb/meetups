@@ -3,11 +3,16 @@ require 'fileutils'
 
 Dir.chdir('reports')
 
+
+
 dirs = Dir.glob('*')
 dirs.each do |dir|
+  # 既存のフォルダ名を分解する
   year = dir[0..3]
   month = dir[4..5]
   day = dir[6..7]
+
+  # attendeesフォルダを作成し、年月日ごとのフォルダを作成
   dest = "../attendees/#{year}/#{month}/#{day}/"
   FileUtils.mkdir_p(dest)
 
