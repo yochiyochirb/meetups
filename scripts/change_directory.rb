@@ -1,11 +1,13 @@
 require 'fileutils'
 # TODO attendees ディレクトリがすでに存在する場合は以下の処理を飛ばしたい
 
+# reportsディレクトリに移動
 Dir.chdir('reports')
 
 
-
+# reportsディレクトリ内のディレクトリを全て取得
 dirs = Dir.glob('*')
+# 各ディレクトリを対象にする（dir)
 dirs.each do |dir|
   # 既存のフォルダ名を分解する
   year = dir[0..3]
@@ -20,7 +22,8 @@ dirs.each do |dir|
   Dir.chdir(dir)
   # フォルダにあるすべてのファイルのファイル名を配列で取得する
   files = Dir.glob("*")
-  #FileUtils.cp(files, dest)
+
+  FileUtils.cp(files, dest)
   # reportsのフォルダに移動する
   Dir.chdir('..')
 
