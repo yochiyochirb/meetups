@@ -16,9 +16,12 @@ dirs.each do |dir|
   dest = "../attendees/#{year}/#{month}/#{day}/"
   FileUtils.mkdir_p(dest)
 
+  # 既存のフォルダに移動する
   Dir.chdir(dir)
+  # フォルダにあるすべてのファイルのファイル名を配列で取得する
   files = Dir.glob("*")
   #FileUtils.cp(files, dest)
+  # reportsのフォルダに移動する
   Dir.chdir('..')
 
 end
