@@ -11,6 +11,5 @@
 * Paypalで決済機能を導入中。できれば、Spikeにしたい。
 * アドバイス/コードレビュー/ペアプロしていただける方、募集中です。
 
- [Twitter](https://twitter.com/Yasu_Irino "Irino's Twitter")
- 
- [Facebook](https://www.facebook.com/irinoyasu "Irino's Facebook")
+  * [Twitter](https://twitter.com/Yasu_Irino "Irino's Twitter")
+  * [Facebook](https://www.facebook.com/irinoyasu "Irino's Facebook")
