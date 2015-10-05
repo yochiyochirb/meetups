@@ -8,23 +8,24 @@ Dir.chdir('reports')
  # reportsディレクトリ内のディレクトリを全て取得
    dirs = Dir.glob('*')
 # # 各ディレクトリを対象にする（dir)
-#   dirs.each do |dir|
+   dirs.each do |dir|
 #   # 既存のフォルダ名を分解する
-#   year = dir[0..3]
-#   month = dir[4..5]
-#   day = dir[6..7]
+   year = dir[0..3]
+   month = dir[4..5]
+   day = dir[6..7]
 
 #   # attendeesフォルダを作成し、年月日ごとのフォルダを作成
-#   dest = "../attendees/#{year}/#{month}/#{day}/"
-#   FileUtils.mkdir_p(dest)
+   dest = "../attendees/#{year}/#{month}/#{day}/"
+   FileUtils.mkdir_p(dest)
 
 #   # 既存のフォルダに移動する
-#   Dir.chdir(dir)
+   Dir.chdir(dir)
+
 #   # フォルダにあるすべてのファイルのファイル名を配列で取得する
-#   files = Dir.glob("*")
+   files = Dir.glob("*")
 
-#   FileUtils.cp(files, dest)
+   FileUtils.cp(files, dest)
 #   # reportsのフォルダに移動する
-#   Dir.chdir('..')
+   Dir.chdir('..')
 
-# end
+ end
