@@ -20,11 +20,14 @@ Dir.chdir('reports')
 
 #   # 既存のフォルダに移動する
    Dir.chdir(dir)
+   puts dir
 
 #   # フォルダにあるすべてのファイルのファイル名を配列で取得する
    files = Dir.glob("*")
 
-   FileUtils.cp(files, dest)
+   dest2 = '../' + dest
+
+   FileUtils.cp(files, dest2)
 #   # reportsのフォルダに移動する
    Dir.chdir('..')
 
