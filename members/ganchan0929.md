@@ -18,9 +18,9 @@ Perlも好き
 
 会社はMercurialです
 
-# 今まで行ったことのある国で印象的だったのは？(あれば)
+# 今住んでいる場所（差し支えなければ）と、そこのお気に入りポイント
 
-ポルトガル。料理がおいしくて風景がきれいでした。物価も安めでGOOD!
+福生。駅近で安いので長居してます。米軍基地があるので国際色豊かなところも好き。
 
 # 近況
 
@@ -28,7 +28,9 @@ Perlも好き
  ＞　突然のSEO担当　＜  
  ￣Y\^Y\^Y\^Y\^Y\^Y\^Y\^Y\^￣  
 
-でもメインはRailsエンジニア（ホッ）
+でもメインはRailsエンジニアらしい
+
+[Gem](https://github.com/yuzoiwasaki/lovelee)を作ったり、よちよちメンバーに[プルリク](https://github.com/yucao24hours/karate/pull/1)を送ったり
 
 # 趣味
 
@@ -36,6 +38,6 @@ Perlも好き
 
 雑食です(Nirvana, Led Zeppelin, Radiohead, Tom Waits, Miles Davis etc.) 
 
-# 特技
+# 特技?
 
-英語、ポルトガル語、手話
+英語とポルトガル語と手話ができたかもしれない
