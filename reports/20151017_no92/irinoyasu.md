@@ -14,7 +14,7 @@
 #### 2015年目標の進捗: サイト作成
 * [テストサイト（AWS/Opsworks/Chef）](http://www.dozen.today/ja/hello "Irino's Website")
 * Done: Rails engineでPaypal決済機能
-* Doing: Spikeで決済機能
+* Doing: Spikeで決済機能 
 
 * アドバイス/コードレビュー/ペアプロしていただける方、募集中です。
   * [Twitter](https://twitter.com/Yasu_Irino "Irino's Twitter")
