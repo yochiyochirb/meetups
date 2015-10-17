@@ -1,7 +1,7 @@
 require 'fileutils'
 # TODO attendees ディレクトリがすでに存在する場合は以下の処理を飛ばしたい
 
-class ChangeDirectory
+class Rebuilder
   # reportsディレクトリに移動
   Dir.chdir('reports')
 
