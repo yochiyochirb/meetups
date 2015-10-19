@@ -11,13 +11,15 @@ class Rebuilder
 
     # 各ディレクトリを対象にする（dir)
     dirs.each do |dir|
-      # 既存のフォルダ名を分解する
-      year = dir[0..3]
-      month = dir[4..5]
-      day = dir[6..7]
+      # TODO: ここの処理をdest_dirに突っ込んで分割する予定
+      # # 既存のフォルダ名を分解する
+      # year = dir[0..3]
+      # month = dir[4..5]
+      # day = dir[6..7]
 
-      # attendeesフォルダを作成し、年月日ごとのフォルダを作成
-      dest = "../attendees/#{year}/#{month}/#{day}/"
+      # # attendeesフォルダを作成し、年月日ごとのフォルダを作成
+      # dest = "../attendees/#{year}/#{month}/#{day}/"
+      dest = dest_dir(dir)
       FileUtils.mkdir_p(dest)
 
       # 既存のフォルダに移動する
