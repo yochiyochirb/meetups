@@ -1,5 +1,4 @@
 require 'mechanize'
-
 require 'nokogiri'
 
 agent = Mechanize.new
