@@ -2,6 +2,9 @@ require 'fileutils'
 # TODO attendees ディレクトリがすでに存在する場合は以下の処理を飛ばしたい
 
 class Rebuilder
+  def dest_dir(str)
+  end
+
   def run_rebuilder
     # reportsディレクトリに移動
     Dir.chdir('reports')
