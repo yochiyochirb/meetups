@@ -9,7 +9,8 @@ class TestRebuilder < Minitest::Test
   def test_dest_dir
     #TODO: srcのディレクトリを渡すと新しいディレクトリ名が返ってくるdest_dirを作成
     src_dir = "20140722_no28"
-    dest = "../"
+    dest = "attendees/2014/07/22/"
+
     assert_equal @rebuilder.dest_dir(src_dir), dest
   end
 end
