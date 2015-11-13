@@ -7,9 +7,9 @@ class TestRebuilder < Minitest::Test
   end
 
   def test_dest_dir
-    src_dir = "20140722_no28"
+    src = "20140722_no28"
     dest = "attendees/2014/07/22"
 
-    assert_equal @rebuilder.dest_dir(src_dir), dest
+    assert_equal @rebuilder.dest_dir(src), dest
   end
 end
