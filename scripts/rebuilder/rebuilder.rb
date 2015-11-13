@@ -3,6 +3,10 @@ require 'fileutils'
 
 class Rebuilder
   def dest_dir(str)
+    year = str[0..3]
+    month = str[4..5]
+    day = str[6..7]
+    "attendees/#{year}/#{month}/#{day}/"
   end
 
   def run_rebuilder
@@ -14,14 +18,6 @@ class Rebuilder
 
     # 各ディレクトリを対象にする（dir)
     dirs.each do |dir|
-      # TODO: ここの処理をdest_dirに突っ込んで分割する予定
-      # # 既存のフォルダ名を分解する
-      # year = dir[0..3]
-      # month = dir[4..5]
-      # day = dir[6..7]
-
-      # # attendeesフォルダを作成し、年月日ごとのフォルダを作成
-      # dest = "../attendees/#{year}/#{month}/#{day}/"
       dest = dest_dir(dir)
       FileUtils.mkdir_p(dest)
 
