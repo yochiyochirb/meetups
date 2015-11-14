@@ -7,8 +7,11 @@ class TestRebuilder < Minitest::Test
   end
 
   def test_dest_dir
-    src = "20140722_no28"
-    dest = "attendees/2014/07/22"
+    src_dir = "20140722_no28"
+    # XXX 各自の環境に依存している
+    dest = "/Users/yucao24hours/work/yochiyochi/meetups/attendees/2014/07/22"
+    assert_equal @rebuilder.dest_dir(src_dir), dest
+  end
 
     assert_equal @rebuilder.dest_dir(src), dest
   end

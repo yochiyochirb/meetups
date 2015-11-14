@@ -6,7 +6,7 @@ class Rebuilder
     year = str[0..3]
     month = str[4..5]
     day = str[6..7]
-    "attendees/#{year}/#{month}/#{day}"
+    "#{meetups}/attendees/#{year}/#{month}/#{day}"
   end
 
   def run_rebuilder
