@@ -35,4 +35,13 @@ class Rebuilder
       Dir.chdir('..')
     end
   end
+
+  private
+
+  def meetups
+    Dir.chdir(File.dirname(__FILE__))
+    Dir.chdir("../../")
+
+    Dir.pwd
+  end
 end
