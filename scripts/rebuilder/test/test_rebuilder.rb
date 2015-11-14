@@ -13,6 +13,9 @@ class TestRebuilder < Minitest::Test
     assert_equal @rebuilder.dest_dir(src_dir), dest
   end
 
-    assert_equal @rebuilder.dest_dir(src), dest
+  def test_copy_dir
+    expected = !File.directory?("/Users/yucao24hours/work/yochiyochi/meetups/attendees/2014/07/22")
+
+    assert expected
   end
 end
