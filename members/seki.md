@@ -16,6 +16,13 @@
 なんかいいとこ行けたらいいなぁ～
 
 # 宿題 
+### 一緒に暮らしている動物もしくは植物を教えてください！
+- 庭にいろいろなお花を植えてもらいました
+- パンジーくらいしかわかっていない！！
+- お部屋の中にも観葉植物入れたい！！！
+    - ずぼらな私でも育てられる観葉植物を教えてください
+
+![garden](https://raw.githubusercontent.com/ManabuSeki/git_tutorial/master/images/garden.jpg)
 
 ### 2015年の目標 / 進捗どうですか？
 |                                     |Jan.|Feb.|Mar.|Apr.|May|Jun.|Jul.|Aug.|Sep.|Oct.|Nov.|Dec.|
