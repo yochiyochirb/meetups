@@ -26,9 +26,6 @@
 * RailsGirlsのページを参考に、コピペで動かしてみた
 * http://www.ey-office.com/education_rails.html ← 1日入門コースを受けた
 
-## 住んでるところ
-+ 秘密(｡´ω`｡)
-
 ## 好きなもの
 * お酒
 * 寿司
