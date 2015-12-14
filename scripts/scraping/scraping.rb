@@ -7,11 +7,11 @@ agent = Mechanize.new
 page = agent.get(url)
 
 
-# 検索窓へよちよち.rbと入力する
 form = page.forms.first
+# 検索窓へよちよち.rbと入力する
 form.field_with(name: 'q').value = 'よちよち.rb'
+# 検索ボタンを押す
 a = form.submit
 
-# 検索ボタンを押す
 
 # 検索結果を表示する
