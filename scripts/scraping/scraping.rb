@@ -14,5 +14,7 @@ search_results = form.submit
 
 
 # 検索結果の1件目のリンク先に移動する
-p search_results.links
+search_results.links.each do |link|
+  p link.text
+end
 
