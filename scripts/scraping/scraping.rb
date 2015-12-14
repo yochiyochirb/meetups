@@ -14,4 +14,4 @@ search_results = form.submit
 
 
 # 検索結果を表示する
-puts search_results
+puts search_results.body
