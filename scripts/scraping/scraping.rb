@@ -1,6 +1,5 @@
 require 'mechanize'
 require 'nokogiri'
-require 'pry'
 
 url = 'https://www.google.com'
 agent = Mechanize.new
