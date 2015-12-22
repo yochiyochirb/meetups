@@ -15,5 +15,4 @@ form.field_with(name: 'q').value = 'よちよち.rb'
 search_results = form.submit
 
 # 検索結果の1件目のリンク先に移動する
-p search_results.search('h3[@class="r"]')
-
+p search_results.search('h3[@class="r"]').first
