@@ -14,7 +14,5 @@ form.field_with(name: 'q').value = 'よちよち.rb'
 search_results = form.submit
 
 # 検索結果の1件目のリンク先に移動する
-search_results.links.each do |link|
-  p link.text
-end
+p search_results.search('h3[@class="r"]')
 
