@@ -13,6 +13,10 @@ __ステータスは3(ほんば)です。__
 ## Git, Github
 __ステータスは3(ほんば)です。__  
 
+## 2016年の目標と意気込み
+- Ruby GoldとSilverを取得する
+- 伊勢海老を食べてどんな味がするのかを確認する
+
 ## その他
 twitter -> https://twitter.com/altarf8  
 blog -> http://altarf.net  
