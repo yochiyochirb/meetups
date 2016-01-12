@@ -16,4 +16,4 @@ search_results = form.submit
 links = search_results.links
 
 # 検索結果の1件目のリンク先に移動する
-p search_results.search('h3[@class="r"]').first
+p links.first
