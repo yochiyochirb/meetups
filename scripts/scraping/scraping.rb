@@ -14,7 +14,7 @@ form.field_with(name: 'q').value = 'よちよち.rb'
 # 検索ボタンを押す
 search_results = form.submit
 
-# class が r のリンクを取得する
+# class が r のリンクを取得する。find だと最初の１つ目を取得するので select は使わない
 links = search_results.links.find{|e|
   e.node.parent['class'] == "r"}
 
