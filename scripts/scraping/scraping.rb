@@ -13,7 +13,7 @@ form.field_with(name: 'q').value = 'よちよち.rb'
 
 # 検索ボタンを押す
 search_results = form.submit
-link = search_results.links
+links = search_results.links
 
 # 検索結果の1件目のリンク先に移動する
 p search_results.search('h3[@class="r"]').first
