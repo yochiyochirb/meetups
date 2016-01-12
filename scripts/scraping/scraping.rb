@@ -13,8 +13,10 @@ form.field_with(name: 'q').value = 'よちよち.rb'
 
 # 検索ボタンを押す
 search_results = form.submit
-links = search_results.links
-binding.pry
+links = search_results.links.find{|e|
+  binding.pry
+  e.node.parent['class'] == "r"}
+
 p links
 
 # 検索結果の1件目のリンク先に移動する
