@@ -14,6 +14,8 @@ form.field_with(name: 'q').value = 'よちよち.rb'
 # 検索ボタンを押す
 search_results = form.submit
 links = search_results.links
+binding.pry
+p links
 
 # 検索結果の1件目のリンク先に移動する
-p links.first
+# p links.first
