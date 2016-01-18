@@ -20,6 +20,3 @@ link = search_results.links.find{|e|
 
 # クリックした最初のリンクへ飛ぶ
 p link.click
-
-# 検索結果の1件目のリンク先に移動する
-# p links.first
