@@ -12,11 +12,12 @@ form = page.forms.first
 form.field_with(name: 'q').value = 'よちよち.rb'
 
 # 検索ボタンを押す
-search_results = form.submit
+search_result_page = form.submit
 
 # class が r のリンクを取得する。find だと最初の１つ目を取得するので select は使わない
-link = search_results.links.find{|e|
-  e.node.parent['class'] == "r"}
+target_link = search_result_page.links.find{ |e|
+  e.node.parent['class'] == 'r' 
+}
 
 # クリックした最初のリンクへ飛ぶ
-p link.click
+p target_link.click
