@@ -14,10 +14,10 @@ form.field_with(name: 'q').value = 'よちよち.rb'
 # 検索ボタンを押す
 search_result_page = form.submit
 
-# class が r のリンクを取得する。find だと最初の１つ目を取得するので select は使わない
+# class が r のリンク(Mechanize::Page::Link)を取得する。最初の１つ目のリンクを取得するので select ではなく find を使う。
 target_link = search_result_page.links.find{ |e|
   e.node.parent['class'] == 'r' 
 }
 
 # クリックした最初のリンクへ飛ぶ
-p target_link.click
+ p target_link.click
