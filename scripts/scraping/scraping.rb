@@ -15,10 +15,10 @@ form.field_with(name: 'q').value = 'よちよち.rb'
 search_results = form.submit
 
 # class が r のリンクを取得する。find だと最初の１つ目を取得するので select は使わない
-links = search_results.links.find{|e|
+link = search_results.links.find{|e|
   e.node.parent['class'] == "r"}
 
-p links
+p link
 
 # 検索結果の1件目のリンク先に移動する
 # p links.first
