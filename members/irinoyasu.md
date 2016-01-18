@@ -8,7 +8,7 @@
 
 #### 2016年目標の進捗
 クラウドファンディングサイト[spacefund.info](http://www.spacefund.info/ja/hello "Spacefund")を作成中。
-* Done: 財前部長とミーティング
+* Done: 財前来社
 * Doing:  Stripe Connect
 * Todo: インドの山奥出張  
 
