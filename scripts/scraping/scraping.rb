@@ -18,7 +18,8 @@ search_results = form.submit
 link = search_results.links.find{|e|
   e.node.parent['class'] == "r"}
 
-p link
+# クリックした最初のリンクへ飛ぶ
+p link.click
 
 # 検索結果の1件目のリンク先に移動する
 # p links.first
