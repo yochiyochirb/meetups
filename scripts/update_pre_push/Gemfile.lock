@@ -1,0 +1,15 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    minitest (5.8.4)
+    minitest-stub_any_instance (1.0.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  minitest
+  minitest-stub_any_instance
+
+BUNDLED WITH
+   1.11.2
