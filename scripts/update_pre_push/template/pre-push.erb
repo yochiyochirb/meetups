@@ -29,7 +29,7 @@ do
       cat << EOT
 =============================================================================
 Pushing commits directly to master branch is not allowed
-unless there exists at least 1 commit log that starts with [ALLOW_MASTER]
+if there exists at least 1 commit log which does not start with [ALLOW_MASTER]
 =============================================================================
 EOT
       exit 1

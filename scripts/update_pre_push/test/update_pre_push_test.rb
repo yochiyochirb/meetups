@@ -89,13 +89,13 @@ class TestPrePushUpdater < Minitest::Test
   def test_update_pre_push_file_create_expected_file_with_admin_flag
     update_pre_push_file(@template_file, @pre_push_file, true)
     content = File.open(@pre_push_file).read
-    assert content.include?('unless there exists at least 1 commit log that starts with')
+    assert content.include?('if there exists at least 1 commit log which does not start with')
   end
 
   def test_update_pre_push_file_create_expected_file_without_admin_flag
     update_pre_push_file(@template_file, @pre_push_file, false)
     content = File.open(@pre_push_file).read
-    refute content.include?('unless there exists at least 1 commit log that starts with')
+    refute content.include?('if there exists at least 1 commit log which does not start with')
   end
 
   def test_update_pre_push_file_returns_false_on_failure
