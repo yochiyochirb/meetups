@@ -13,7 +13,7 @@ $ ruby scripts/update_pre_push/update_pre_push.rb
 ## 仕様
 
 - pre-push フックを設定すると、master ブランチに直接 push しようとしたとき、以下のエラーメッセージが出て push に失敗します  
-  `Pushing to the commits the master branch is not allowed`
+  `Pushing commits directly to master branch is not allowed
 - もし `git` コマンドがインストールされていなかったりパスが通っていない場合、スクリプトの実行で以下のエラーとなります  
   `ERROR: Failed to run git command. Check if git is installed and the excutable path is correctly set in PATH.`
 - スクリプトを実行するのが `meetups/` ディレクトリ以外の場合も期待通りにスクリプトが動作し、正しく pre-push が更新されます
