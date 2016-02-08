@@ -8,14 +8,9 @@
 
 #### 2016年目標の進捗
 クラウドファンディングサイト[spacefund.info](http://www.spacefund.info/ja/hello "Spacefund")を作成中。
-* Done: 財前来社
-* Doing:  Stripe Connect
-* Todo: インドの山奥出張  
-
-#### 好きなおでんの具
-◯ はんぺん
-
-× ちくわぶ
+* Done: インドの山奥出張
+* Done: omotesando.rbでLT：　[星を大量に発見する話](goo.gl/ofMYZM "Spacefund")
+* Todo: 最後の仕上げをrubyistに発注
 
 #### アドバイス/コードレビュー/ペアプロしていただける方、募集中です。
   * [Twitter](https://twitter.com/Yasu_Irino "Irino's Twitter")
