@@ -10,7 +10,7 @@
 宇宙開発専門のクラウドファンディングサイト[spacefund.info](http://www.spacefund.info/ja/hello "Spacefund")を作成中。
 * Done: インドの山奥出張
 * Done: omotesando.rbでLT：　[星を大量に発見する話](https://docs.google.com/presentation/d/1mgGtnXCC3oIw0EU2wjDcOS0txDX6V29StEVREjJqVFE/edit?usp=sharing "Spacefund projects")
-* Done: 最後の仕上げをrubyistに発注
+* Done: 最後の仕上げをpadrinoなrubyistに発注
 * Done: RubyのペアプロをJavaな会社の社内でやってみた
 * Done: TensorFlowを動かしてみた
 * Todo: 九州でスペースバルーン打ち上げ
