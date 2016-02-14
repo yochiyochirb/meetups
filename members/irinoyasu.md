@@ -16,10 +16,10 @@
 * Todo: 九州でスペースバルーン打ち上げ
 
 #### 高い買い物
-我が家は、ニャンゲル係数が高めです。
-最近は、[この２匹](https://drive.google.com/file/d/0B0WiRDlWb_H0bTQ2eFE3bDhLYWs/view?usp=sharing "ねこねこ")を買いました。
-１匹20万円。
-でも、priceless！
+我が家は、ニャンゲル係数が高めです。  
+最近は、[この２匹](https://drive.google.com/file/d/0B0WiRDlWb_H0bTQ2eFE3bDhLYWs/view?usp=sharing "ねこねこ")を買いました。  
+１匹20万円。  
+でも、priceless！  
 
 
 #### アドバイス/コードレビュー/ペアプロしていただける方、募集中です。
