@@ -13,15 +13,21 @@
 * Done: 最後の仕上げをpadrinoなrubyistに発注
 * Done: RubyのペアプロをJavaな会社の社内でやってみた
 * Done: TensorFlowを動かしてみた
-* Todo: 九州でスペースバルーン打ち上げ
-
-#### 高い買い物
-我が家は、ニャンゲル係数が高めです。  
-最近は、[この２匹](https://drive.google.com/file/d/0B0WiRDlWb_H0bTQ2eFE3bDhLYWs/view?usp=sharing "ねこねこ")を買いました。  
-１匹20万円。  
-でも、priceless！  
+* Doing: 九州でスペースバルーン打ち上げ
+* Done: 「10分でブログアプリをつくる」のペアプロをJavaな会社の社内でやってみた
 
 
-#### アドバイス/コードレビュー/ペアプロしていただける方、募集中です。
-  * [Twitter](https://twitter.com/Yasu_Irino "Irino's Twitter")
-  * [Facebook](https://www.facebook.com/irinoyasu "Irino's Facebook")
+#### あなたのエンジニア人生で印象にのこっている人とその理由  
+回折限界を突破した数学者。
+未解決問題Pompeiu Problemに挑戦する気概。
+
+
+#### 今日、ペアプロしていただける方、募集中です。
+  * [こんなサイト](https://spacefund-irinoyasu.c9users.io "Spacefund development")
+  * Devise facebook signup/loginを少し直したいです。
+  * Cloud9:[https://c9.io/](https://c9.io/ "Cloud9")　でアカウントを作成し　　
+  irinoyasu@gmail.comへメールしてもらえれば、invitationを送ります。
+  * Slack:[https://spacefunds.slack.com/signup](https://spacefunds.slack.com/signup "Slack")
+
+
+※ 娘が後で来ますが、おとなしくしてますので、よろしくお願いします。
