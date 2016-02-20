@@ -25,9 +25,8 @@
 #### 今日、ペアプロしていただける方、募集中です。
   * [こんなサイト](https://spacefund-irinoyasu.c9users.io "Spacefund development")
   * Devise facebook signup/loginを少し直したいです。
-  * Cloud9:[https://c9.io/](https://c9.io/ "Cloud9")　でアカウントを作成し　　
-  irinoyasu@gmail.comへメールしてもらえれば、invitationを送ります。
+  * Cloud9:[https://c9.io/](https://c9.io/ "Cloud9")でアカウントを作成し、irinoyasu@gmail.comへメールしてもらえれば、invitationを送ります。
   * Slack:[https://spacefunds.slack.com/signup](https://spacefunds.slack.com/signup "Slack")
 
 
-※ 娘が後で来ますが、おとなしくしてますので、よろしくお願いします。
+※ 娘が後で来ますが、おとなしくしますので、よろしくお願いします。
