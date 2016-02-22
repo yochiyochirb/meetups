@@ -24,7 +24,7 @@
 
 青みの強いいわゆるピンクほど可愛すぎないけど、女性らしくて上品なところが素敵だなあと思います。
 
-去年、勤務先でつくった[スライド](https://www.dropbox.com/s/l969drlkdha5wo5/2015_agile_my_houhu_slide.png?dl=0)の背景にもそんな色を使ってる。
+去年、勤務先でつくった[スライド](https://drive.google.com/file/d/0B5WTFINaZ0TyOFFJWVRVZUVoSDA/view?usp=sharing)の背景にもそんな色を使ってる。
 
 普段着る服やファブリックは、黒とかグレーとか深緑とかが多いんですけどね。春になったら着てみようかな〜:blossom:
 
