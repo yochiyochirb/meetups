@@ -7,26 +7,50 @@
 #### Githubのステータス：ほんば
 
 #### 2016年目標の進捗
-宇宙開発専門のクラウドファンディングサイト[spacefund.info](http://www.spacefund.info/ja/hello "Spacefund")を作成中。
-* Done: インドの山奥出張
-* Done: omotesando.rbでLT：　[星を大量に発見する話](https://docs.google.com/presentation/d/1mgGtnXCC3oIw0EU2wjDcOS0txDX6V29StEVREjJqVFE/edit?usp=sharing "Spacefund projects")
-* Done: 最後の仕上げをpadrinoなrubyistに発注
-* Done: RubyのペアプロをJavaな会社の社内でやってみた
-* Done: TensorFlowを動かしてみた
-* Doing: 九州でスペースバルーン打ち上げ
-* Done: 「10分でブログアプリをつくる」のペアプロをJavaな会社の社内でやってみた
+宇宙開発専門のクラウドファンディングサイト[spacefund.info](http://www.spacefund.info/ja/hello "Spacefund")をほぼ完成。
+
+* Done: 九州でスペースバルーン打ち上げ
 
 
-#### あなたのエンジニア人生で印象にのこっている人とその理由  
-回折限界を突破した数学者。
-未解決問題Pompeiu Problemに挑戦する気概。
+
+[土砂降りの雨のなか根性で打ち上げ](https://drive.google.com/file/d/0B0WiRDlWb_H0eFBlOXRKWVA2c3J6TlBtOEl6dXlLeTFSUURj/view "Spaceballoon" target="_blank")
+
+[いってらっしゃい](https://drive.google.com/file/d/0B0WiRDlWb_H0cVUxZk9BOUp4MDV4TUhGUWJaTm1IMjRYamxz/view "Spaceballoon" target="_blank")
+
+[四国の予定が日本海へ](https://drive.google.com/file/d/0B0WiRDlWb_H0c3l4V0xuVXBRclhIRHdwcW1MTEJzVmVVM0tJ/view "Spaceballoon" target="_blank")
+
+回収不能・・・
 
 
-#### 今日、ペアプロしていただける方、募集中です。
-  * [こんなサイト](https://spacefund-irinoyasu.c9users.io "Spacefund development")
+
+
+と思いきや、地元住民の方からご連絡。
+
+データ回収成功！
+
+
+[長崎上空](https://drive.google.com/file/d/0B0WiRDlWb_H0RlpJR1ZWcDhjSWN2Q2FxaHpLaFVlUHhIS0hB/view "Spaceballoon" target="_blank")
+
+[厚い雨雲の上から宇宙が見えた瞬間](https://drive.google.com/file/d/0B0WiRDlWb_H0ZUtKUjNUT1dTeG9vNnNPTlhrc0lRRzJKQnRR/view "Spaceballoon" target="_blank")
+
+[高度17kmでバルーンが破裂した瞬間](https://drive.google.com/file/d/0B0WiRDlWb_H0bGwweWhkdVJEOHk0MWNtLXZ0RDFrUUMtdkt3/view "Spaceballoon" target="_blank")
+
+[島根県沖30kmに着水](https://drive.google.com/file/d/0B0WiRDlWb_H0bnNxdjFLSFdIUGhiR25ETEZkdElQRWdGVTFj/view "Spaceballoon" target="_blank")
+
+[島根県の海岸に漂着](https://drive.google.com/file/d/0B0WiRDlWb_H0MGV6b3RBTnd6a2h0a2xZUUxJZ2thdFNpdUN3/view "Spaceballoon" target="_blank")
+
+
+
+技術だけでなく、運も大事ということ・・・
+
+
+
+* Todo: 上空1km係留型バルーンの打ち上げ 
+
+
+
+#### ペアプロしていただける方、募集中です。
+  * [開発環境](https://spacefund-irinoyasu.c9users.io "Spacefund development")
   * Devise facebook signup/loginを少し直したいです。
   * Cloud9:[https://c9.io/](https://c9.io/ "Cloud9")でアカウントを作成し、irinoyasu@gmail.comへメールしてもらえれば、invitationを送ります。
   * Slack:[https://spacefunds.slack.com/signup](https://spacefunds.slack.com/signup "Slack")
-
-
-※ 娘が後で来ますが、おとなしくしますので、よろしくお願いします。
