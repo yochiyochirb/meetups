@@ -54,9 +54,34 @@
      
     
     
-* Todo: 上空1km係留型バルーンの打ち上げ 
-    
-     
+* Done: 係留型バルーンの打ち上げ
+  * [係留型仕様](https://drive.google.com/file/d/0B0WiRDlWb_H0ZWxqY3pBYXU1aEh1cnpBS2kxc3YtSXRMRXZv/view?usp=sharing "係留型スペースバルーン" target="_blank")
+
+  一昨日、打ち上げに成功。
+  高度1kmの予定でしたが、高度は500mに。
+  写真+動画も撮影成功。
+
+* Done: 
+  4/1-4/2に岡山の笠岡空港で行うテストフライト案件を
+  spacefund.infoの第1号案件として掲載決定。
+  
+  デカいラジコンをパソコンで遠隔操作する飛行試験です。
+  
+  4/22-29に北海道大樹町で行うより本格的な遠隔操作飛行試験の前に、
+  いろいろと確認する飛行試験です。
+  
+  ちなみに、
+  タウンワークから受託して、
+  客寄せパンダとして、「激レアバイト」にも掲載しました。
+  
+  現状、8000人以上の方の応募がありました。
+  
+  [タウンワーク：激レアバイト募集要項](https://townwork.net/detail/clc_1942676001/joid_41270658/ "激レアバイト")
+   
+* Doing:
+  本番環境への移行。 
+  リターンの作成。
+   
      
 ## ペアプロしていただける方、募集中です。
   * [開発環境](https://spacefund-irinoyasu.c9users.io "Spacefund development")
