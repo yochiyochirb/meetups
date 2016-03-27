@@ -10,25 +10,29 @@
   お花見。
 
 ## 2016年目標の進捗
-宇宙開発専門のクラウドファンディングサイト[spacefund.info](http://www.spacefund.info/ja/hello "Spacefund")を開発しています。
+宇宙開発専門のクラウドファンディングサイトを開発しています。
 
 * Done: インドネシア出張
   
 * Done:本番環境のリリース！
    
 * Done:
+
   取材対応。
   [Tech camp blog](http://blog.tech-camp.in/?p=1628 "Tech camp")。
 
 * Done: 
+  
   4/1-4/2に岡山の笠岡空港で行うテストフライト案件を
   タウンワークの「激レアバイト」日給３万円にも掲載。
   8500人以上の応募から２名を決定。
     
-* Todo:第1号案件の宣伝
-  逆に３万円を払って実験に参加する男気商品。
+* Todo:
   
-  [Spacefund](http://www.spacefund.info/ja/x04ft03?ref=explore "遠隔操作のテストフライト")
+  第1号案件の宣伝。
+  逆に３万円を払って実験に参加する男気商品です。
+  
+  [遠隔操作テストフライト：実験参加](http://www.spacefund.info/ja/x04ft03?ref=explore "遠隔操作のテストフライト")
   
 
      
