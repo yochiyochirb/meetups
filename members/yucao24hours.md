@@ -16,14 +16,6 @@
 ## Git とわたし
 ステータス : **4 (つぼみ :tulip:)**
 
-## 好きな emoji とその理由
-
-emoji はよく使うのですが、ひとつお気に入りを挙げろと言われたら `:new_moon_with_face:` でしょう。
-
-超かわいい。
-
-emoji で思い出しましたが、RubyTaiwan の [JuanitoFatas さんの発表スライド](https://speakerdeck.com/juanitofatas)はいつも emoji を大活用していてすごくわかりやすく且つおもしろいので、スライドだけでもぜひ見てみてください。生で聞く（見る）ともっとたのしいです！
-
 ## 2016 年の目標と進捗
 ### ありたい姿
 
