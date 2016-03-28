@@ -37,10 +37,10 @@
 
 # Homework
 
-## 今まで買った一番高いもの
+## マイブーム
 
-Mac Book Pro...だと思うけど正確な値段を覚えていないので、次点で中古で買ったBass。
-Music Man StingRay ￥120,000
+- 週報
+  - https://bellflower.dodgson.org/週報仲間-a799ad07f349#.5tmpnu7sp
 
 # 2015年の目標と進捗
 
