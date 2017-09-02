@@ -1,0 +1,35 @@
+#!/bin/bash
+
+# pre-push hook to prevent direct pushing to master excluding the following cases
+# - All commit logs for the commits to be pushed start with "[ALLOW_MASTER]"
+# e.g [ALLOW_MASTER] Fix something
+# https://gist.github.com/5t111111/7779f7ac2c844c1b5479
+
+z40=0000000000000000000000000000000000000000
+
+while read local_ref local_sha1 remote_ref remote_sha1
+do
+  if [ "${remote_ref##refs/heads/}" = "master" ]; then
+    if [ "$remote_sha1" = $z40 ]; then
+      # New branch, examine all commits
+      range="$local_sha1"
+    else
+      # Update to existing branch, examine new commits
+      range="$remote_sha1..$local_sha1"
+    fi
+
+    # Check for non-allow-master commits
+    commit=`git rev-list --invert-grep --grep '^\[ALLOW_MASTER\]' "$range"`
+    if [ -n "$commit" ]; then
+      cat << EOT
+=============================================================================
+Pushing to the commits the master branch is not allowed
+if there exists at least 1 commit log that doesn't start with [ALLOW_MASTER]
+=============================================================================
+EOT
+      exit 1
+    fi
+  fi
+done
+
+exit 0
